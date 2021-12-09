@@ -1,4 +1,4 @@
-# Generated on Thu 09 12 21 17:04:56 CET 2021
+# Generated on Thu 09 12 21 17:05:54 CET 2021
 /ip firewall address-list
 add list=gnzdef-blacklist address=1.10.16.0/20
 add list=gnzdef-blacklist address=1.19.0.0/16
