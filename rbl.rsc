@@ -1,4 +1,4 @@
-# Generated on Mon 13 12 21 14:44:19 CET 2021
+# Generated on Mon 13 12 21 14:45:21 CET 2021
 /ip firewall address-list
 add list=gnzdef-blacklist address=1.10.16.0/20
 add list=gnzdef-blacklist address=1.19.0.0/16
@@ -17834,6 +17834,8 @@ add list=gnzdef-blacklist address=207.154.208.93
 
 add list=gnzdef-blacklist address=207.180.220.242
 
+add list=gnzdef-blacklist address=207.246.112.221
+
 add list=gnzdef-blacklist address=209.33.231.203
 
 add list=gnzdef-blacklist address=210.57.217.132
@@ -17857,6 +17859,10 @@ add list=gnzdef-blacklist address=216.10.251.121
 add list=gnzdef-blacklist address=216.108.227.55
 
 add list=gnzdef-blacklist address=216.177.161.118
+
+add list=gnzdef-blacklist address=216.238.71.31
+
+add list=gnzdef-blacklist address=216.238.72.121
 
 add list=gnzdef-blacklist address=218.101.110.3
 
@@ -17993,8 +17999,6 @@ add list=gnzdef-blacklist address=69.64.50.41
 add list=gnzdef-blacklist address=71.74.12.34
 
 add list=gnzdef-blacklist address=73.151.236.31
-
-add list=gnzdef-blacklist address=73.5.119.219
 
 add list=gnzdef-blacklist address=76.25.142.196
 
