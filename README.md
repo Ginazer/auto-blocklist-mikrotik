@@ -18,7 +18,8 @@ download rsc
 update replace list 
 >add name=gnzdef-rbl-replace source="/ip firewall address-list remove [find where list=\"gnzdef-blacklist\"]; /import file-name=rbl.rsc
 
-remove own ip public from list 'Attention! check at delete-own-ippublic, please adjust your ip public'.
+remove own ip public from list 
+**Attention! check at delete-own-ippublic, please adjust your ip public**
 >add name=delete-own-ippublic source="/ip firewall address-list remove [find where address=\"your.ip.pub.lic\"]
 
 
