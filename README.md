@@ -41,7 +41,7 @@ Schedule Delete Own Ip Public
 >/ip firewall filter
 
 Block attacker to MikroTik
->add action=drop chain=input comment="Realtime Blocklist GNZDEF (https://raw.githubusercontent.com/Ginazer/auto-blocklist-mikrotik/main/rbl.rsc)" connection-state=new in-interface="your wan ehter" src-address-list=gnzdef-blacklist
+>add action=drop chain=input comment="Realtime Blocklist GNZDEF (https://raw.githubusercontent.com/Ginazer/auto-blocklist-mikrotik/main/rbl.rsc)" connection-state=new in-interface="your wan ether" src-address-list=gnzdef-blacklist
 
 Block client to access malecious site
 >add action=drop chain=forward connection-state=new dst-address-list=gnzdef-blacklist out-interface="your wan ether"
