@@ -37,7 +37,7 @@ Schedule Delete Own Ip Public
 
 
 ## Filter
-**Attention! check at interface, please adjust your wan interface.**
+**Attention! check the interface, please adjust your wan interface.**
 >/ip firewall filter
 
 Block attacker to MikroTik
