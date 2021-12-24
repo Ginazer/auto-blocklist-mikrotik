@@ -26,18 +26,18 @@ remove own ip public from list 'Attention! check at delete-own-ippublic, please 
 Note: for scheduler please adjust your time before use command below.
 >/system scheduler
 
-Download
+Schedule Download
 >add interval=1d name=update-rbl-gnzdef on-event=gnzdef-rbl-download start-date=dec/10/2021 start-time=23:30:00
 
-Install
+Schedule Install
 >add interval=1d name=install-rbl-gnzdef on-event=gnzdef-rbl-replace start-date=dec/10/2021 start-time=23:35:00
 
-Delete Own Ip Public
+Schedule Delete Own Ip Public
 >add interval=1d name=delete-own-ippublic on-event=delete-own-ippublic start-date=dec/10/2021 start-time=23:40:00
 
 
 ## Filter
-Attention! check at interface, please adjust your wan interface.
+**Attention! check at interface, please adjust your wan interface.**
 >/ip firewall filter
 
 Block attacker to MikroTik
