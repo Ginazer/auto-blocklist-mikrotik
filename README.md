@@ -13,18 +13,18 @@ Plush Reference IP Blacklist .txt
 >/system script
 
 download rsc
->add name=gnzdef-rbl-download source="/tool fetch url=\"https://raw.githubusercontent.com/Ginazer/auto-blocklist-mikrotik/main/rbl.rsc" mode=https"
+>add name=gnzdef-rbl-download source="/tool fetch url=\\"https://raw.githubusercontent.com/Ginazer/auto-blocklist-mikrotik/main/rbl.rsc\" mode=https"
 
 update replace list 
->add name=gnzdef-rbl-replace source="/ip firewall address-list remove [find where list=\"gnzdef-blacklist\"]; /import file-name=rbl.rsc"
+>add name=gnzdef-rbl-replace source="/ip firewall address-list remove [find where list=\\"gnzdef-blacklist\\"]; /import file-name=rbl.rsc"
 
 remove own ip public from list 
 **Attention! please adjust your ip public**
->add name=delete-own-ippublic source="/ip firewall address-list remove [find where address=\"**your.ip.pub.lic**\"]"
+>add name=delete-own-ippublic source="/ip firewall address-list remove [find where address=\\"**your.ip.pub.lic**\\"]"
 
 
 ## Schedule
-Note: for scheduler please adjust your time before use command below.
+**Note: for the scheduler, please adjust your time to the time you do the config before using the command below.**
 >/system scheduler
 
 Schedule Download
