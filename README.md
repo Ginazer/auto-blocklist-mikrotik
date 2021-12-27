@@ -34,7 +34,7 @@ Schedule Install
 >add interval=1d name=install-rbl-gnzdef on-event=gnzdef-rbl-replace start-date=**dec/10/2021** start-time=23:35:00
 
 Schedule Delete Own Ip Public
->add interval=1d name=delete-own-ippublic on-event=delete-own-ippublic start-date=dec/10/2021 start-time=23:59:00
+>add interval=1d name=delete-own-ippublic on-event=delete-own-ippublic start-date=**dec/10/2021** start-time=23:59:00
 
 
 ## Filter
