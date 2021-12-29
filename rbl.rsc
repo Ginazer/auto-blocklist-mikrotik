@@ -1,4 +1,4 @@
-# Blacklist Updated on 14:29:17 Wed,29 12 21  CET 2021
+# Blacklist Updated on 14:30:30 Wed,29/12/2021 CET 2021
 /ip firewall address-list
 add list=gnzdef-blacklist address=89.248.165.0	89.248.165.255	24	9197	INT-NETWORK	SC	abuse@ipvolume.net
 add list=gnzdef-blacklist address=45.134.26.0	45.134.26.255	24	8530	SELECTEL	RU	abuse@selectel.ru
