@@ -1,22 +1,185 @@
-# Blacklist Updated on 16:32:12 Wed,29/12/2021 CET 2021
+# Blacklist Updated on 16:33:18 Wed,29/12/2021 CET 2021
 /ip firewall address-list
-add list=gnzdef-blacklist address=89.248.165.0	89.248.165.255	24	9197	INT-NETWORK	SC	abuse@ipvolume.net
-add list=gnzdef-blacklist address=45.134.26.0	45.134.26.255	24	8530	SELECTEL	RU	abuse@selectel.ru
-add list=gnzdef-blacklist address=45.146.166.0	45.146.166.255	24	8431	SELECTEL	RU	abuse@selectel.ru
-add list=gnzdef-blacklist address=167.248.133.0	167.248.133.255	24	5144	CENSYS-ARIN-03	US	
-add list=gnzdef-blacklist address=185.156.73.0	185.156.73.255	24	4115	SIBIRINVEST	NL	qwalarty@ukr.net
-add list=gnzdef-blacklist address=45.146.165.0	45.146.165.255	24	3835	SELECTEL	RU	abuse@selectel.ru
-add list=gnzdef-blacklist address=193.163.125.0	193.163.125.255	24	3488	CYBER-CASA	GB	>>UNKNOWN<<
-add list=gnzdef-blacklist address=45.135.232.0	45.135.232.255	24	3486	SELECTEL-MSK	RU	abuse@selectel.ru
-add list=gnzdef-blacklist address=185.191.34.0	185.191.34.255	24	3366	SELECTEL-MSK	RU	abuse@selectel.ru
-add list=gnzdef-blacklist address=89.248.163.0	89.248.163.255	24	3083	INT-NETWORK	SC	abuse@ipvolume.net
-add list=gnzdef-blacklist address=193.27.229.0	193.27.229.255	24	2564	SELECTEL	RU	abuse@selectel.ru
-add list=gnzdef-blacklist address=146.88.240.0	146.88.240.255	24	2373	ARBOR	US	hostmaster@arbor.net
-add list=gnzdef-blacklist address=45.137.23.0	45.137.23.255	24	2372	ROOTLAYERNET	BD	complain@rootlayer.net
-add list=gnzdef-blacklist address=138.99.216.0	138.99.216.255	24	2250	NFORCE	NL	abuse@nforce.com
-add list=gnzdef-blacklist address=92.63.197.0	92.63.197.255	24	2246	SIBIRINVEST	NL	qwalarty@ukr.net
-add list=gnzdef-blacklist address=5.188.206.0	5.188.206.255	24	2202	KREZ999AS	BG	abuse@fastvps.biz
-add list=gnzdef-blacklist address=45.143.203.0	45.143.203.255	24	2189	FOPSERVER	UA	vvsg180@gmail.com
-add list=gnzdef-blacklist address=2.57.121.0	2.57.121.255	24	2140	UNMANAGED-DEDICATED-SERVERS	GB	abuse@dedicated.net.ua
-add list=gnzdef-blacklist address=141.98.10.0	141.98.10.255	24	1960	HOSTBALTIC	LT	>>UNKNOWN<<
-add list=gnzdef-blacklist address=192.241.212.0	192.241.212.255	24	1759	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+add list=gnzdef-blacklist address=5.188.11.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL402809
+add list=gnzdef-blacklist address=27.112.32.0/19
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL237955
+add list=gnzdef-blacklist address=31.184.237.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL419884
+add list=gnzdef-blacklist address=37.9.42.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394633
+add list=gnzdef-blacklist address=42.140.0.0/17
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL253830
+add list=gnzdef-blacklist address=43.57.0.0/16
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL271294
+add list=gnzdef-blacklist address=43.181.0.0/16
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL271295
+add list=gnzdef-blacklist address=45.91.227.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL508101
+add list=gnzdef-blacklist address=46.148.112.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394634
+add list=gnzdef-blacklist address=46.148.120.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394635
+add list=gnzdef-blacklist address=46.148.127.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394636
+add list=gnzdef-blacklist address=58.2.0.0/17
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL249532
+add list=gnzdef-blacklist address=59.254.0.0/15
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL230802
+add list=gnzdef-blacklist address=62.112.16.0/21
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL237227
+add list=gnzdef-blacklist address=76.74.36.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL505040
+add list=gnzdef-blacklist address=79.110.22.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394646
+add list=gnzdef-blacklist address=91.193.75.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL442782
+add list=gnzdef-blacklist address=91.200.81.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394648
+add list=gnzdef-blacklist address=91.200.82.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394649
+add list=gnzdef-blacklist address=91.200.83.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394650
+add list=gnzdef-blacklist address=91.200.164.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394651
+add list=gnzdef-blacklist address=91.208.245.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL520700
+add list=gnzdef-blacklist address=91.216.3.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394652
+add list=gnzdef-blacklist address=91.243.93.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL502562
+add list=gnzdef-blacklist address=104.168.70.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL539021
+add list=gnzdef-blacklist address=116.79.0.0/16
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL234552
+add list=gnzdef-blacklist address=119.227.224.0/19
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL237235
+add list=gnzdef-blacklist address=120.46.0.0/15
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL262362
+add list=gnzdef-blacklist address=120.64.0.0/16
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL253581
+add list=gnzdef-blacklist address=120.67.0.0/16
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL247795
+add list=gnzdef-blacklist address=120.128.128.0/17
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL266080
+add list=gnzdef-blacklist address=120.128.192.0/18
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL253828
+add list=gnzdef-blacklist address=120.129.0.0/17
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL251953
+add list=gnzdef-blacklist address=120.129.128.0/17
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL251954
+add list=gnzdef-blacklist address=120.130.0.0/16
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL253827
+add list=gnzdef-blacklist address=120.130.128.0/18
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL253829
+add list=gnzdef-blacklist address=153.85.0.0/16
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL258301
+add list=gnzdef-blacklist address=162.222.215.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL496220
+add list=gnzdef-blacklist address=168.76.0.0/19
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL213677
+add list=gnzdef-blacklist address=178.159.97.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394681
+add list=gnzdef-blacklist address=178.159.100.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL419882
+add list=gnzdef-blacklist address=178.159.107.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL419883
+add list=gnzdef-blacklist address=185.14.192.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394686
+add list=gnzdef-blacklist address=185.14.193.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394687
+add list=gnzdef-blacklist address=185.14.195.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394688
+add list=gnzdef-blacklist address=185.71.0.0/22
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL394689
+add list=gnzdef-blacklist address=185.140.53.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL481094
+add list=gnzdef-blacklist address=192.3.76.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL539067
+add list=gnzdef-blacklist address=194.5.98.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL434331
+add list=gnzdef-blacklist address=196.45.120.0/21
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL458211
+add list=gnzdef-blacklist address=197.242.100.0/22
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL174938
+add list=gnzdef-blacklist address=197.242.104.0/21
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL174939
+add list=gnzdef-blacklist address=197.242.112.0/20
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL174940
+add list=gnzdef-blacklist address=204.2.189.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL441964
+add list=gnzdef-blacklist address=204.141.204.0/24
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL495180
+add list=gnzdef-blacklist address=208.12.64.0/19
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL201196
+add list=gnzdef-blacklist address=210.57.128.0/18
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL233459
+add list=gnzdef-blacklist address=210.57.192.0/20
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL237213
+add list=gnzdef-blacklist address=212.95.144.0/22
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL198435
+add list=gnzdef-blacklist address=213.130.88.0/22
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL391310
+add list=gnzdef-blacklist address=213.176.20.0/22
+add list=gnzdef-blacklist address=;
+add list=gnzdef-blacklist address=SBL462672
