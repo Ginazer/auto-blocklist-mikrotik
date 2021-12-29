@@ -1,29 +1,5 @@
-# Blacklist Updated on 16:38:39 Wed,29/12/2021 CET 2021
+# Blacklist Updated on 16:40:07 Wed,29/12/2021 CET 2021
 /ip firewall address-list
-add list=gnzdef-blacklist address=address
-add list=gnzdef-blacklist address=#
-add list=gnzdef-blacklist address=#
-add list=gnzdef-blacklist address=If
-add list=gnzdef-blacklist address=a
-add list=gnzdef-blacklist address=range
-add list=gnzdef-blacklist address=is
-add list=gnzdef-blacklist address=assigned
-add list=gnzdef-blacklist address=to
-add list=gnzdef-blacklist address=multiple
-add list=gnzdef-blacklist address=users,
-add list=gnzdef-blacklist address=the
-add list=gnzdef-blacklist address=first
-add list=gnzdef-blacklist address=one
-add list=gnzdef-blacklist address=is
-add list=gnzdef-blacklist address=listed.
-add list=gnzdef-blacklist address=#
-add list=gnzdef-blacklist address=Start
-add list=gnzdef-blacklist address=End
-add list=gnzdef-blacklist address=Netmask
-add list=gnzdef-blacklist address=Attacks
-add list=gnzdef-blacklist address=Name
-add list=gnzdef-blacklist address=Country
-add list=gnzdef-blacklist address=email
 add list=gnzdef-blacklist address=89.248.165.0
 add list=gnzdef-blacklist address=89.248.165.255
 add list=gnzdef-blacklist address=24
