@@ -11,7 +11,6 @@ add list=gnzdef-blacklist address=91.240.118.0/24
 add list=gnzdef-blacklist address=89.248.174.0/24
 add list=gnzdef-blacklist address=193.163.125.0/24
 add list=gnzdef-blacklist address=123.160.221.0/24
-add list=gnzdef-blacklist address=P.R.China./24
 add list=gnzdef-blacklist address=89.248.168.0/24
 add list=gnzdef-blacklist address=92.63.197.0/24
 add list=gnzdef-blacklist address=45.135.232.0/24
