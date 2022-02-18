@@ -1,4 +1,4 @@
-# Blacklist Updated on Fri, 18 02 22 16:26:01 CET 2021
+# Blacklist Updated on Fri, 18 02 22 16:26:58 CET 2021
 89.248.165.0
 92.63.197.0
 45.155.205.0
