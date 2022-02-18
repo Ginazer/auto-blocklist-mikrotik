@@ -1,5 +1,26 @@
-# Blacklist Updated on Fri, 18 02 22 16:25:50 CET 2021
+# Blacklist Updated on Fri, 18 02 22 16:26:01 CET 2021
 /ip firewall address-list
+add list=gnzdef-blacklist address=89.248.165.0/24
+add list=gnzdef-blacklist address=92.63.197.0/24
+add list=gnzdef-blacklist address=45.155.205.0/24
+add list=gnzdef-blacklist address=89.248.163.0/24
+add list=gnzdef-blacklist address=167.248.133.0/24
+add list=gnzdef-blacklist address=91.240.118.0/24
+add list=gnzdef-blacklist address=123.160.221.0/24
+add list=gnzdef-blacklist address=P.R.China./24
+add list=gnzdef-blacklist address=185.73.126.0/24
+add list=gnzdef-blacklist address=185.156.73.0/24
+add list=gnzdef-blacklist address=45.143.203.0/24
+add list=gnzdef-blacklist address=185.191.34.0/24
+add list=gnzdef-blacklist address=89.248.168.0/24
+add list=gnzdef-blacklist address=193.163.125.0/24
+add list=gnzdef-blacklist address=178.239.21.0/24
+add list=gnzdef-blacklist address=111.7.96.0/24
+add list=gnzdef-blacklist address=45.143.200.0/24
+add list=gnzdef-blacklist address=146.88.240.0/24
+add list=gnzdef-blacklist address=45.145.66.0/24
+add list=gnzdef-blacklist address=92.63.196.0/24
+add list=gnzdef-blacklist address=141.98.10.0/24
 add list=gnzdef-blacklist address=1.10.16.0/20
 add list=gnzdef-blacklist address=1.19.0.0/16
 add list=gnzdef-blacklist address=1.32.128.0/18
