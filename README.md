@@ -54,7 +54,8 @@ Thank you...
 - feodotracker
 - blocklist.de
 - dshield.org
+- projecthoneypot.org 
 - scumware.org (On Progress)
-- projecthoneypot.org (On Progress)
+
 
 Reference: Pwlgrzs Github
