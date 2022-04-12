@@ -1,4 +1,4 @@
-# Blacklist Updated on Tue, 12 04 22 10:30:12 CET 2021
+# Blacklist Updated on Tue, 12 04 22 10:31:02 CET 2021
 /ip firewall address-list
 add list=gnzdef-blacklist address=139.59.112.136
 add list=gnzdef-blacklist address=45.84.1.239
