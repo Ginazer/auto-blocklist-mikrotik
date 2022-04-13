@@ -1,4 +1,4 @@
-# Blacklist Updated on Wed, 13 04 22 13:25:02 CET 2021
+# Blacklist Updated on Wed, 13 04 22 14:08:49 CET 2021
 /ip firewall address-list
 add list=gnzdef-blacklist address=165.22.255.238
 add list=gnzdef-blacklist address=139.59.112.136
@@ -1028,7 +1028,6 @@ add list=gnzdef-blacklist address=212.193.30.0/24
 add list=gnzdef-blacklist address=213.130.88.0/22
 add list=gnzdef-blacklist address=213.176.20.0/22
 add list=gnzdef-blacklist address=1.10.184.165
-add list=gnzdef-blacklist address=1.11.62.187
 add list=gnzdef-blacklist address=1.116.117.214
 add list=gnzdef-blacklist address=1.116.222.32
 add list=gnzdef-blacklist address=1.117.116.108
@@ -1052,7 +1051,6 @@ add list=gnzdef-blacklist address=1.202.77.126
 add list=gnzdef-blacklist address=1.202.8.141
 add list=gnzdef-blacklist address=1.204.64.101
 add list=gnzdef-blacklist address=1.209.110.62
-add list=gnzdef-blacklist address=1.214.196.154
 add list=gnzdef-blacklist address=1.214.245.18
 add list=gnzdef-blacklist address=1.214.245.27
 add list=gnzdef-blacklist address=1.214.61.162
@@ -1197,7 +1195,6 @@ add list=gnzdef-blacklist address=101.71.38.179
 add list=gnzdef-blacklist address=101.85.118.110
 add list=gnzdef-blacklist address=101.88.59.217
 add list=gnzdef-blacklist address=101.91.218.96
-add list=gnzdef-blacklist address=101.91.241.102
 add list=gnzdef-blacklist address=101.93.168.96
 add list=gnzdef-blacklist address=101.93.28.200
 add list=gnzdef-blacklist address=101.99.13.225
@@ -1242,6 +1239,7 @@ add list=gnzdef-blacklist address=103.108.87.133
 add list=gnzdef-blacklist address=103.109.178.11
 add list=gnzdef-blacklist address=103.109.178.25
 add list=gnzdef-blacklist address=103.109.178.85
+add list=gnzdef-blacklist address=103.109.6.125
 add list=gnzdef-blacklist address=103.109.7.55
 add list=gnzdef-blacklist address=103.110.192.34
 add list=gnzdef-blacklist address=103.110.236.4
@@ -1383,7 +1381,6 @@ add list=gnzdef-blacklist address=103.159.53.102
 add list=gnzdef-blacklist address=103.16.132.100
 add list=gnzdef-blacklist address=103.16.132.187
 add list=gnzdef-blacklist address=103.16.132.96
-add list=gnzdef-blacklist address=103.16.202.187
 add list=gnzdef-blacklist address=103.160.232.22
 add list=gnzdef-blacklist address=103.160.24.2
 add list=gnzdef-blacklist address=103.160.83.52
@@ -1418,7 +1415,6 @@ add list=gnzdef-blacklist address=103.171.84.187
 add list=gnzdef-blacklist address=103.171.85.77
 add list=gnzdef-blacklist address=103.172.154.118
 add list=gnzdef-blacklist address=103.172.204.172
-add list=gnzdef-blacklist address=103.172.9.10
 add list=gnzdef-blacklist address=103.173.159.254
 add list=gnzdef-blacklist address=103.173.161.250
 add list=gnzdef-blacklist address=103.173.161.251
@@ -1510,6 +1506,7 @@ add list=gnzdef-blacklist address=103.237.58.235
 add list=gnzdef-blacklist address=103.24.97.202
 add list=gnzdef-blacklist address=103.240.100.22
 add list=gnzdef-blacklist address=103.240.34.130
+add list=gnzdef-blacklist address=103.240.91.38
 add list=gnzdef-blacklist address=103.241.178.52
 add list=gnzdef-blacklist address=103.241.178.56
 add list=gnzdef-blacklist address=103.242.166.5
@@ -1586,7 +1583,6 @@ add list=gnzdef-blacklist address=103.56.157.107
 add list=gnzdef-blacklist address=103.57.123.2
 add list=gnzdef-blacklist address=103.57.142.108
 add list=gnzdef-blacklist address=103.57.222.104
-add list=gnzdef-blacklist address=103.58.115.217
 add list=gnzdef-blacklist address=103.58.115.49
 add list=gnzdef-blacklist address=103.58.64.18
 add list=gnzdef-blacklist address=103.58.65.110
@@ -1726,6 +1722,7 @@ add list=gnzdef-blacklist address=104.131.45.150
 add list=gnzdef-blacklist address=104.131.46.166
 add list=gnzdef-blacklist address=104.131.55.236
 add list=gnzdef-blacklist address=104.131.68.23
+add list=gnzdef-blacklist address=104.131.72.142
 add list=gnzdef-blacklist address=104.131.79.252
 add list=gnzdef-blacklist address=104.131.88.16
 add list=gnzdef-blacklist address=104.131.88.229
@@ -1743,7 +1740,6 @@ add list=gnzdef-blacklist address=104.168.36.11
 add list=gnzdef-blacklist address=104.168.68.119
 add list=gnzdef-blacklist address=104.172.183.182
 add list=gnzdef-blacklist address=104.174.13.215
-add list=gnzdef-blacklist address=104.174.9.129
 add list=gnzdef-blacklist address=104.175.239.228
 add list=gnzdef-blacklist address=104.177.34.102
 add list=gnzdef-blacklist address=104.186.5.201
@@ -1827,6 +1823,7 @@ add list=gnzdef-blacklist address=104.248.146.166
 add list=gnzdef-blacklist address=104.248.146.6
 add list=gnzdef-blacklist address=104.248.147.69
 add list=gnzdef-blacklist address=104.248.149.154
+add list=gnzdef-blacklist address=104.248.15.201
 add list=gnzdef-blacklist address=104.248.154.198
 add list=gnzdef-blacklist address=104.248.155.136
 add list=gnzdef-blacklist address=104.248.157.240
@@ -2014,7 +2011,6 @@ add list=gnzdef-blacklist address=106.38.121.162
 add list=gnzdef-blacklist address=106.38.203.230
 add list=gnzdef-blacklist address=106.38.58.138
 add list=gnzdef-blacklist address=106.39.63.53
-add list=gnzdef-blacklist address=106.40.35.23
 add list=gnzdef-blacklist address=106.41.44.207
 add list=gnzdef-blacklist address=106.51.3.154
 add list=gnzdef-blacklist address=106.51.3.214
@@ -2175,7 +2171,6 @@ add list=gnzdef-blacklist address=109.168.145.52
 add list=gnzdef-blacklist address=109.168.160.128
 add list=gnzdef-blacklist address=109.173.122.75
 add list=gnzdef-blacklist address=109.173.89.224
-add list=gnzdef-blacklist address=109.189.11.32
 add list=gnzdef-blacklist address=109.190.29.139
 add list=gnzdef-blacklist address=109.195.148.73
 add list=gnzdef-blacklist address=109.195.2.144
@@ -2195,11 +2190,11 @@ add list=gnzdef-blacklist address=109.254.106.241
 add list=gnzdef-blacklist address=109.254.61.187
 add list=gnzdef-blacklist address=109.26.152.162
 add list=gnzdef-blacklist address=109.30.100.204
+add list=gnzdef-blacklist address=109.40.241.92
 add list=gnzdef-blacklist address=109.42.176.11
 add list=gnzdef-blacklist address=109.42.177.74
 add list=gnzdef-blacklist address=109.42.178.76
 add list=gnzdef-blacklist address=109.42.178.99
-add list=gnzdef-blacklist address=109.51.30.189
 add list=gnzdef-blacklist address=109.51.60.8
 add list=gnzdef-blacklist address=109.70.204.57
 add list=gnzdef-blacklist address=109.75.45.116
@@ -2209,12 +2204,12 @@ add list=gnzdef-blacklist address=110.11.204.93
 add list=gnzdef-blacklist address=110.11.234.191
 add list=gnzdef-blacklist address=110.133.239.91
 add list=gnzdef-blacklist address=110.136.218.123
+add list=gnzdef-blacklist address=110.138.168.33
 add list=gnzdef-blacklist address=110.138.195.85
 add list=gnzdef-blacklist address=110.141.212.12
 add list=gnzdef-blacklist address=110.15.252.93
 add list=gnzdef-blacklist address=110.152.100.104
 add list=gnzdef-blacklist address=110.166.75.105
-add list=gnzdef-blacklist address=110.168.24.156
 add list=gnzdef-blacklist address=110.168.26.124
 add list=gnzdef-blacklist address=110.168.29.208
 add list=gnzdef-blacklist address=110.168.29.53
@@ -2237,7 +2232,6 @@ add list=gnzdef-blacklist address=110.169.44.208
 add list=gnzdef-blacklist address=110.169.44.25
 add list=gnzdef-blacklist address=110.169.45.133
 add list=gnzdef-blacklist address=110.170.117.113
-add list=gnzdef-blacklist address=110.171.21.152
 add list=gnzdef-blacklist address=110.185.125.121
 add list=gnzdef-blacklist address=110.185.174.154
 add list=gnzdef-blacklist address=110.185.86.181
@@ -2338,7 +2332,6 @@ add list=gnzdef-blacklist address=111.67.193.16
 add list=gnzdef-blacklist address=111.67.194.211
 add list=gnzdef-blacklist address=111.67.194.29
 add list=gnzdef-blacklist address=111.67.194.71
-add list=gnzdef-blacklist address=111.67.195.74
 add list=gnzdef-blacklist address=111.67.196.137
 add list=gnzdef-blacklist address=111.67.196.192
 add list=gnzdef-blacklist address=111.67.196.60
@@ -2375,6 +2368,7 @@ add list=gnzdef-blacklist address=111.70.15.212
 add list=gnzdef-blacklist address=111.70.16.144
 add list=gnzdef-blacklist address=111.70.16.167
 add list=gnzdef-blacklist address=111.70.16.224
+add list=gnzdef-blacklist address=111.70.16.225
 add list=gnzdef-blacklist address=111.70.16.226
 add list=gnzdef-blacklist address=111.70.16.228
 add list=gnzdef-blacklist address=111.70.16.232
@@ -2417,6 +2411,7 @@ add list=gnzdef-blacklist address=112.122.54.162
 add list=gnzdef-blacklist address=112.13.171.77
 add list=gnzdef-blacklist address=112.13.171.87
 add list=gnzdef-blacklist address=112.13.171.92
+add list=gnzdef-blacklist address=112.13.171.94
 add list=gnzdef-blacklist address=112.13.171.97
 add list=gnzdef-blacklist address=112.132.249.164
 add list=gnzdef-blacklist address=112.133.220.50
@@ -2463,6 +2458,7 @@ add list=gnzdef-blacklist address=112.227.193.104
 add list=gnzdef-blacklist address=112.239.20.3
 add list=gnzdef-blacklist address=112.26.44.112
 add list=gnzdef-blacklist address=112.27.171.140
+add list=gnzdef-blacklist address=112.27.250.210
 add list=gnzdef-blacklist address=112.28.209.251
 add list=gnzdef-blacklist address=112.28.209.66
 add list=gnzdef-blacklist address=112.28.209.67
@@ -2563,7 +2559,6 @@ add list=gnzdef-blacklist address=113.173.144.227
 add list=gnzdef-blacklist address=113.173.157.161
 add list=gnzdef-blacklist address=113.173.177.61
 add list=gnzdef-blacklist address=113.173.180.241
-add list=gnzdef-blacklist address=113.173.208.113
 add list=gnzdef-blacklist address=113.173.216.114
 add list=gnzdef-blacklist address=113.173.219.164
 add list=gnzdef-blacklist address=113.173.255.245
@@ -2571,7 +2566,6 @@ add list=gnzdef-blacklist address=113.173.47.162
 add list=gnzdef-blacklist address=113.173.66.74
 add list=gnzdef-blacklist address=113.173.97.41
 add list=gnzdef-blacklist address=113.175.110.139
-add list=gnzdef-blacklist address=113.175.168.137
 add list=gnzdef-blacklist address=113.175.210.204
 add list=gnzdef-blacklist address=113.175.240.127
 add list=gnzdef-blacklist address=113.175.240.142
@@ -2587,7 +2581,6 @@ add list=gnzdef-blacklist address=113.178.35.244
 add list=gnzdef-blacklist address=113.181.16.6
 add list=gnzdef-blacklist address=113.184.110.203
 add list=gnzdef-blacklist address=113.185.0.13
-add list=gnzdef-blacklist address=113.186.109.234
 add list=gnzdef-blacklist address=113.190.40.250
 add list=gnzdef-blacklist address=113.190.76.208
 add list=gnzdef-blacklist address=113.193.128.226
@@ -2816,7 +2809,6 @@ add list=gnzdef-blacklist address=115.87.196.5
 add list=gnzdef-blacklist address=115.87.197.39
 add list=gnzdef-blacklist address=115.87.212.234
 add list=gnzdef-blacklist address=115.87.212.37
-add list=gnzdef-blacklist address=115.87.213.190
 add list=gnzdef-blacklist address=115.87.213.234
 add list=gnzdef-blacklist address=115.87.213.34
 add list=gnzdef-blacklist address=115.87.216.231
@@ -2829,7 +2821,6 @@ add list=gnzdef-blacklist address=115.87.224.187
 add list=gnzdef-blacklist address=115.87.224.253
 add list=gnzdef-blacklist address=115.87.224.5
 add list=gnzdef-blacklist address=115.87.227.133
-add list=gnzdef-blacklist address=115.88.245.36
 add list=gnzdef-blacklist address=115.88.38.58
 add list=gnzdef-blacklist address=115.89.11.34
 add list=gnzdef-blacklist address=115.91.117.66
@@ -2846,14 +2837,11 @@ add list=gnzdef-blacklist address=116.104.7.78
 add list=gnzdef-blacklist address=116.104.74.249
 add list=gnzdef-blacklist address=116.105.167.78
 add list=gnzdef-blacklist address=116.105.171.130
-add list=gnzdef-blacklist address=116.105.210.68
 add list=gnzdef-blacklist address=116.105.212.31
 add list=gnzdef-blacklist address=116.105.216.128
 add list=gnzdef-blacklist address=116.105.28.49
 add list=gnzdef-blacklist address=116.105.31.34
 add list=gnzdef-blacklist address=116.105.73.206
-add list=gnzdef-blacklist address=116.105.76.151
-add list=gnzdef-blacklist address=116.105.77.90
 add list=gnzdef-blacklist address=116.107.167.32
 add list=gnzdef-blacklist address=116.107.22.137
 add list=gnzdef-blacklist address=116.110.123.122
@@ -2939,6 +2927,7 @@ add list=gnzdef-blacklist address=116.198.36.176
 add list=gnzdef-blacklist address=116.198.39.247
 add list=gnzdef-blacklist address=116.198.39.40
 add list=gnzdef-blacklist address=116.20.215.69
+add list=gnzdef-blacklist address=116.203.102.65
 add list=gnzdef-blacklist address=116.203.141.166
 add list=gnzdef-blacklist address=116.203.159.102
 add list=gnzdef-blacklist address=116.203.17.177
@@ -2991,13 +2980,10 @@ add list=gnzdef-blacklist address=116.92.239.166
 add list=gnzdef-blacklist address=116.97.48.208
 add list=gnzdef-blacklist address=116.97.56.103
 add list=gnzdef-blacklist address=116.98.165.6
-add list=gnzdef-blacklist address=116.98.168.64
 add list=gnzdef-blacklist address=116.98.170.21
 add list=gnzdef-blacklist address=116.98.174.52
-add list=gnzdef-blacklist address=116.98.175.47
 add list=gnzdef-blacklist address=116.99.79.65
 add list=gnzdef-blacklist address=117.0.190.79
-add list=gnzdef-blacklist address=117.0.74.126
 add list=gnzdef-blacklist address=117.102.82.42
 add list=gnzdef-blacklist address=117.103.158.245
 add list=gnzdef-blacklist address=117.103.2.146
@@ -3028,7 +3014,6 @@ add list=gnzdef-blacklist address=117.111.1.143
 add list=gnzdef-blacklist address=117.111.1.145
 add list=gnzdef-blacklist address=117.111.1.148
 add list=gnzdef-blacklist address=117.111.1.152
-add list=gnzdef-blacklist address=117.111.1.155
 add list=gnzdef-blacklist address=117.111.1.158
 add list=gnzdef-blacklist address=117.111.1.161
 add list=gnzdef-blacklist address=117.111.1.162
@@ -3076,7 +3061,7 @@ add list=gnzdef-blacklist address=117.111.1.37
 add list=gnzdef-blacklist address=117.111.1.39
 add list=gnzdef-blacklist address=117.111.1.4
 add list=gnzdef-blacklist address=117.111.1.40
-add list=gnzdef-blacklist address=117.111.1.48
+add list=gnzdef-blacklist address=117.111.1.42
 add list=gnzdef-blacklist address=117.111.1.53
 add list=gnzdef-blacklist address=117.111.1.55
 add list=gnzdef-blacklist address=117.111.1.56
@@ -3101,6 +3086,7 @@ add list=gnzdef-blacklist address=117.111.2.110
 add list=gnzdef-blacklist address=117.111.24.209
 add list=gnzdef-blacklist address=117.111.24.43
 add list=gnzdef-blacklist address=117.111.24.97
+add list=gnzdef-blacklist address=117.111.25.140
 add list=gnzdef-blacklist address=117.111.25.181
 add list=gnzdef-blacklist address=117.111.25.97
 add list=gnzdef-blacklist address=117.111.28.147
@@ -3146,7 +3132,6 @@ add list=gnzdef-blacklist address=117.213.202.5
 add list=gnzdef-blacklist address=117.213.46.143
 add list=gnzdef-blacklist address=117.214.125.52
 add list=gnzdef-blacklist address=117.215.128.86
-add list=gnzdef-blacklist address=117.215.66.178
 add list=gnzdef-blacklist address=117.217.125.87
 add list=gnzdef-blacklist address=117.220.15.119
 add list=gnzdef-blacklist address=117.223.136.107
@@ -3197,7 +3182,6 @@ add list=gnzdef-blacklist address=117.50.18.200
 add list=gnzdef-blacklist address=117.50.34.131
 add list=gnzdef-blacklist address=117.50.37.217
 add list=gnzdef-blacklist address=117.50.45.241
-add list=gnzdef-blacklist address=117.50.6.160
 add list=gnzdef-blacklist address=117.50.64.141
 add list=gnzdef-blacklist address=117.50.82.74
 add list=gnzdef-blacklist address=117.50.88.114
@@ -3250,7 +3234,6 @@ add list=gnzdef-blacklist address=118.143.79.194
 add list=gnzdef-blacklist address=118.145.8.50
 add list=gnzdef-blacklist address=118.160.253.177
 add list=gnzdef-blacklist address=118.163.4.237
-add list=gnzdef-blacklist address=118.167.236.161
 add list=gnzdef-blacklist address=118.170.33.99
 add list=gnzdef-blacklist address=118.172.151.245
 add list=gnzdef-blacklist address=118.172.237.126
@@ -3349,6 +3332,7 @@ add list=gnzdef-blacklist address=118.70.233.117
 add list=gnzdef-blacklist address=118.70.233.163
 add list=gnzdef-blacklist address=118.70.233.231
 add list=gnzdef-blacklist address=118.70.72.103
+add list=gnzdef-blacklist address=118.79.4.220
 add list=gnzdef-blacklist address=118.89.164.55
 add list=gnzdef-blacklist address=118.89.230.188
 add list=gnzdef-blacklist address=118.89.66.102
@@ -3358,6 +3342,7 @@ add list=gnzdef-blacklist address=118.97.119.130
 add list=gnzdef-blacklist address=118.98.90.22
 add list=gnzdef-blacklist address=118.98.96.184
 add list=gnzdef-blacklist address=118.99.67.85
+add list=gnzdef-blacklist address=118.99.79.178
 add list=gnzdef-blacklist address=119.10.114.135
 add list=gnzdef-blacklist address=119.10.114.183
 add list=gnzdef-blacklist address=119.100.107.132
@@ -3382,11 +3367,11 @@ add list=gnzdef-blacklist address=119.2.53.74
 add list=gnzdef-blacklist address=119.205.7.229
 add list=gnzdef-blacklist address=119.206.34.74
 add list=gnzdef-blacklist address=119.206.5.238
+add list=gnzdef-blacklist address=119.207.184.49
 add list=gnzdef-blacklist address=119.207.79.146
 add list=gnzdef-blacklist address=119.228.112.233
 add list=gnzdef-blacklist address=119.234.20.103
 add list=gnzdef-blacklist address=119.235.25.42
-add list=gnzdef-blacklist address=119.236.156.11
 add list=gnzdef-blacklist address=119.252.143.6
 add list=gnzdef-blacklist address=119.254.155.22
 add list=gnzdef-blacklist address=119.27.168.200
@@ -3451,7 +3436,6 @@ add list=gnzdef-blacklist address=120.211.22.110
 add list=gnzdef-blacklist address=120.211.26.230
 add list=gnzdef-blacklist address=120.229.59.162
 add list=gnzdef-blacklist address=120.232.251.85
-add list=gnzdef-blacklist address=120.25.104.120
 add list=gnzdef-blacklist address=120.28.109.188
 add list=gnzdef-blacklist address=120.28.169.198
 add list=gnzdef-blacklist address=120.29.77.122
@@ -3521,7 +3505,6 @@ add list=gnzdef-blacklist address=121.135.242.45
 add list=gnzdef-blacklist address=121.135.77.30
 add list=gnzdef-blacklist address=121.136.39.210
 add list=gnzdef-blacklist address=121.138.33.42
-add list=gnzdef-blacklist address=121.140.160.42
 add list=gnzdef-blacklist address=121.141.69.61
 add list=gnzdef-blacklist address=121.142.87.218
 add list=gnzdef-blacklist address=121.144.15.62
@@ -3574,7 +3557,6 @@ add list=gnzdef-blacklist address=121.205.228.246
 add list=gnzdef-blacklist address=121.22.95.58
 add list=gnzdef-blacklist address=121.225.208.29
 add list=gnzdef-blacklist address=121.225.76.2
-add list=gnzdef-blacklist address=121.228.33.31
 add list=gnzdef-blacklist address=121.229.165.142
 add list=gnzdef-blacklist address=121.229.167.197
 add list=gnzdef-blacklist address=121.229.223.141
@@ -3598,7 +3580,6 @@ add list=gnzdef-blacklist address=121.4.121.147
 add list=gnzdef-blacklist address=121.4.140.53
 add list=gnzdef-blacklist address=121.4.15.16
 add list=gnzdef-blacklist address=121.4.199.84
-add list=gnzdef-blacklist address=121.4.215.46
 add list=gnzdef-blacklist address=121.4.41.22
 add list=gnzdef-blacklist address=121.4.48.134
 add list=gnzdef-blacklist address=121.4.51.142
@@ -3631,6 +3612,7 @@ add list=gnzdef-blacklist address=121.62.17.252
 add list=gnzdef-blacklist address=121.62.18.126
 add list=gnzdef-blacklist address=121.65.121.149
 add list=gnzdef-blacklist address=121.66.35.37
+add list=gnzdef-blacklist address=121.7.31.13
 add list=gnzdef-blacklist address=121.79.128.37
 add list=gnzdef-blacklist address=122.11.148.34
 add list=gnzdef-blacklist address=122.11.177.126
@@ -3728,7 +3710,6 @@ add list=gnzdef-blacklist address=122.160.96.101
 add list=gnzdef-blacklist address=122.161.192.127
 add list=gnzdef-blacklist address=122.161.194.186
 add list=gnzdef-blacklist address=122.161.197.173
-add list=gnzdef-blacklist address=122.161.199.10
 add list=gnzdef-blacklist address=122.161.65.21
 add list=gnzdef-blacklist address=122.161.67.92
 add list=gnzdef-blacklist address=122.162.144.239
@@ -3792,7 +3773,6 @@ add list=gnzdef-blacklist address=122.168.123.29
 add list=gnzdef-blacklist address=122.168.125.16
 add list=gnzdef-blacklist address=122.168.125.237
 add list=gnzdef-blacklist address=122.168.126.221
-add list=gnzdef-blacklist address=122.168.126.44
 add list=gnzdef-blacklist address=122.168.194.41
 add list=gnzdef-blacklist address=122.168.196.249
 add list=gnzdef-blacklist address=122.168.197.126
@@ -3815,7 +3795,6 @@ add list=gnzdef-blacklist address=122.169.112.31
 add list=gnzdef-blacklist address=122.169.112.64
 add list=gnzdef-blacklist address=122.169.113.12
 add list=gnzdef-blacklist address=122.169.113.235
-add list=gnzdef-blacklist address=122.169.113.63
 add list=gnzdef-blacklist address=122.169.114.102
 add list=gnzdef-blacklist address=122.169.114.144
 add list=gnzdef-blacklist address=122.169.114.214
@@ -3843,6 +3822,7 @@ add list=gnzdef-blacklist address=122.170.119.127
 add list=gnzdef-blacklist address=122.170.119.242
 add list=gnzdef-blacklist address=122.170.12.21
 add list=gnzdef-blacklist address=122.170.3.203
+add list=gnzdef-blacklist address=122.170.3.222
 add list=gnzdef-blacklist address=122.170.6.116
 add list=gnzdef-blacklist address=122.170.6.150
 add list=gnzdef-blacklist address=122.170.9.156
@@ -3924,7 +3904,6 @@ add list=gnzdef-blacklist address=122.51.208.215
 add list=gnzdef-blacklist address=122.51.26.230
 add list=gnzdef-blacklist address=122.51.46.47
 add list=gnzdef-blacklist address=122.51.64.115
-add list=gnzdef-blacklist address=122.51.95.142
 add list=gnzdef-blacklist address=122.52.48.92
 add list=gnzdef-blacklist address=122.53.57.33
 add list=gnzdef-blacklist address=122.53.86.120
@@ -3955,7 +3934,6 @@ add list=gnzdef-blacklist address=123.129.65.199
 add list=gnzdef-blacklist address=123.129.65.207
 add list=gnzdef-blacklist address=123.129.65.212
 add list=gnzdef-blacklist address=123.129.65.213
-add list=gnzdef-blacklist address=123.129.65.215
 add list=gnzdef-blacklist address=123.129.65.225
 add list=gnzdef-blacklist address=123.129.65.227
 add list=gnzdef-blacklist address=123.129.65.228
@@ -4032,7 +4010,6 @@ add list=gnzdef-blacklist address=123.231.142.188
 add list=gnzdef-blacklist address=123.231.217.92
 add list=gnzdef-blacklist address=123.233.25.147
 add list=gnzdef-blacklist address=123.24.128.174
-add list=gnzdef-blacklist address=123.24.135.19
 add list=gnzdef-blacklist address=123.24.142.23
 add list=gnzdef-blacklist address=123.24.63.130
 add list=gnzdef-blacklist address=123.24.91.167
@@ -4127,6 +4104,7 @@ add list=gnzdef-blacklist address=124.121.164.97
 add list=gnzdef-blacklist address=124.121.177.114
 add list=gnzdef-blacklist address=124.121.177.182
 add list=gnzdef-blacklist address=124.121.177.4
+add list=gnzdef-blacklist address=124.121.182.121
 add list=gnzdef-blacklist address=124.121.182.50
 add list=gnzdef-blacklist address=124.121.182.76
 add list=gnzdef-blacklist address=124.121.182.94
@@ -4182,6 +4160,7 @@ add list=gnzdef-blacklist address=124.122.70.230
 add list=gnzdef-blacklist address=124.122.78.174
 add list=gnzdef-blacklist address=124.122.78.189
 add list=gnzdef-blacklist address=124.122.78.50
+add list=gnzdef-blacklist address=124.122.79.203
 add list=gnzdef-blacklist address=124.123.66.20
 add list=gnzdef-blacklist address=124.126.76.144
 add list=gnzdef-blacklist address=124.127.240.50
@@ -4238,7 +4217,6 @@ add list=gnzdef-blacklist address=124.239.168.74
 add list=gnzdef-blacklist address=124.251.110.147
 add list=gnzdef-blacklist address=124.251.110.148
 add list=gnzdef-blacklist address=124.251.110.204
-add list=gnzdef-blacklist address=124.255.233.142
 add list=gnzdef-blacklist address=124.28.200.34
 add list=gnzdef-blacklist address=124.28.218.66
 add list=gnzdef-blacklist address=124.40.244.199
@@ -4247,10 +4225,8 @@ add list=gnzdef-blacklist address=124.43.10.224
 add list=gnzdef-blacklist address=124.43.5.108
 add list=gnzdef-blacklist address=124.43.9.184
 add list=gnzdef-blacklist address=124.47.36.58
-add list=gnzdef-blacklist address=124.6.249.48
 add list=gnzdef-blacklist address=124.65.181.78
 add list=gnzdef-blacklist address=124.74.140.254
-add list=gnzdef-blacklist address=124.89.118.91
 add list=gnzdef-blacklist address=124.89.83.117
 add list=gnzdef-blacklist address=124.90.43.12
 add list=gnzdef-blacklist address=124.95.143.135
@@ -4500,7 +4476,6 @@ add list=gnzdef-blacklist address=129.226.176.239
 add list=gnzdef-blacklist address=129.226.176.245
 add list=gnzdef-blacklist address=129.226.178.235
 add list=gnzdef-blacklist address=129.226.181.212
-add list=gnzdef-blacklist address=129.226.181.58
 add list=gnzdef-blacklist address=129.226.182.219
 add list=gnzdef-blacklist address=129.226.187.72
 add list=gnzdef-blacklist address=129.226.187.79
@@ -4578,10 +4553,10 @@ add list=gnzdef-blacklist address=131.100.139.136
 add list=gnzdef-blacklist address=131.108.178.14
 add list=gnzdef-blacklist address=131.161.36.19
 add list=gnzdef-blacklist address=131.196.104.148
-add list=gnzdef-blacklist address=131.196.104.180
 add list=gnzdef-blacklist address=131.196.217.51
 add list=gnzdef-blacklist address=131.196.217.84
 add list=gnzdef-blacklist address=131.221.130.130
+add list=gnzdef-blacklist address=131.72.201.71
 add list=gnzdef-blacklist address=132.145.125.71
 add list=gnzdef-blacklist address=132.148.178.206
 add list=gnzdef-blacklist address=132.148.224.56
@@ -4605,7 +4580,6 @@ add list=gnzdef-blacklist address=134.122.126.197
 add list=gnzdef-blacklist address=134.122.134.161
 add list=gnzdef-blacklist address=134.122.17.178
 add list=gnzdef-blacklist address=134.122.18.0
-add list=gnzdef-blacklist address=134.122.22.96
 add list=gnzdef-blacklist address=134.122.30.166
 add list=gnzdef-blacklist address=134.122.30.191
 add list=gnzdef-blacklist address=134.122.31.55
@@ -4642,7 +4616,6 @@ add list=gnzdef-blacklist address=134.17.94.229
 add list=gnzdef-blacklist address=134.17.94.246
 add list=gnzdef-blacklist address=134.17.94.27
 add list=gnzdef-blacklist address=134.19.146.45
-add list=gnzdef-blacklist address=134.195.196.53
 add list=gnzdef-blacklist address=134.209.102.116
 add list=gnzdef-blacklist address=134.209.102.5
 add list=gnzdef-blacklist address=134.209.103.209
@@ -4669,7 +4642,6 @@ add list=gnzdef-blacklist address=134.209.198.12
 add list=gnzdef-blacklist address=134.209.204.252
 add list=gnzdef-blacklist address=134.209.210.254
 add list=gnzdef-blacklist address=134.209.212.125
-add list=gnzdef-blacklist address=134.209.213.110
 add list=gnzdef-blacklist address=134.209.217.10
 add list=gnzdef-blacklist address=134.209.218.123
 add list=gnzdef-blacklist address=134.209.228.253
@@ -4677,6 +4649,7 @@ add list=gnzdef-blacklist address=134.209.233.126
 add list=gnzdef-blacklist address=134.209.236.191
 add list=gnzdef-blacklist address=134.209.247.47
 add list=gnzdef-blacklist address=134.209.248.200
+add list=gnzdef-blacklist address=134.209.33.65
 add list=gnzdef-blacklist address=134.209.41.216
 add list=gnzdef-blacklist address=134.209.45.65
 add list=gnzdef-blacklist address=134.209.79.45
@@ -4738,7 +4711,6 @@ add list=gnzdef-blacklist address=136.243.74.100
 add list=gnzdef-blacklist address=136.255.144.2
 add list=gnzdef-blacklist address=136.34.51.10
 add list=gnzdef-blacklist address=136.34.8.242
-add list=gnzdef-blacklist address=136.34.98.73
 add list=gnzdef-blacklist address=136.36.107.51
 add list=gnzdef-blacklist address=136.37.167.138
 add list=gnzdef-blacklist address=136.49.7.70
@@ -4910,7 +4882,6 @@ add list=gnzdef-blacklist address=138.68.109.59
 add list=gnzdef-blacklist address=138.68.110.166
 add list=gnzdef-blacklist address=138.68.12.12
 add list=gnzdef-blacklist address=138.68.131.49
-add list=gnzdef-blacklist address=138.68.143.113
 add list=gnzdef-blacklist address=138.68.143.128
 add list=gnzdef-blacklist address=138.68.148.177
 add list=gnzdef-blacklist address=138.68.148.252
@@ -5034,13 +5005,11 @@ add list=gnzdef-blacklist address=139.59.116.212
 add list=gnzdef-blacklist address=139.59.118.3
 add list=gnzdef-blacklist address=139.59.12.172
 add list=gnzdef-blacklist address=139.59.121.221
-add list=gnzdef-blacklist address=139.59.129.44
 add list=gnzdef-blacklist address=139.59.135.142
 add list=gnzdef-blacklist address=139.59.138.121
 add list=gnzdef-blacklist address=139.59.14.70
+add list=gnzdef-blacklist address=139.59.140.207
 add list=gnzdef-blacklist address=139.59.148.36
-add list=gnzdef-blacklist address=139.59.158.52
-add list=gnzdef-blacklist address=139.59.16.28
 add list=gnzdef-blacklist address=139.59.160.42
 add list=gnzdef-blacklist address=139.59.168.22
 add list=gnzdef-blacklist address=139.59.169.103
@@ -5173,12 +5142,10 @@ add list=gnzdef-blacklist address=14.162.179.140
 add list=gnzdef-blacklist address=14.163.123.188
 add list=gnzdef-blacklist address=14.164.58.51
 add list=gnzdef-blacklist address=14.164.82.151
-add list=gnzdef-blacklist address=14.169.144.205
 add list=gnzdef-blacklist address=14.169.155.129
 add list=gnzdef-blacklist address=14.169.166.255
 add list=gnzdef-blacklist address=14.169.190.230
 add list=gnzdef-blacklist address=14.169.220.29
-add list=gnzdef-blacklist address=14.170.244.135
 add list=gnzdef-blacklist address=14.172.243.202
 add list=gnzdef-blacklist address=14.177.144.43
 add list=gnzdef-blacklist address=14.177.166.216
@@ -5205,7 +5172,7 @@ add list=gnzdef-blacklist address=14.186.38.141
 add list=gnzdef-blacklist address=14.186.45.1
 add list=gnzdef-blacklist address=14.186.97.111
 add list=gnzdef-blacklist address=14.187.104.22
-add list=gnzdef-blacklist address=14.190.30.245
+add list=gnzdef-blacklist address=14.187.115.103
 add list=gnzdef-blacklist address=14.199.104.57
 add list=gnzdef-blacklist address=14.199.107.35
 add list=gnzdef-blacklist address=14.204.145.108
@@ -5263,7 +5230,6 @@ add list=gnzdef-blacklist address=14.248.121.177
 add list=gnzdef-blacklist address=14.248.146.236
 add list=gnzdef-blacklist address=14.248.150.93
 add list=gnzdef-blacklist address=14.248.154.135
-add list=gnzdef-blacklist address=14.248.159.103
 add list=gnzdef-blacklist address=14.248.198.72
 add list=gnzdef-blacklist address=14.248.77.101
 add list=gnzdef-blacklist address=14.253.70.158
@@ -5407,6 +5373,7 @@ add list=gnzdef-blacklist address=143.110.153.150
 add list=gnzdef-blacklist address=143.110.157.40
 add list=gnzdef-blacklist address=143.110.159.245
 add list=gnzdef-blacklist address=143.110.177.246
+add list=gnzdef-blacklist address=143.110.178.138
 add list=gnzdef-blacklist address=143.110.181.232
 add list=gnzdef-blacklist address=143.110.183.211
 add list=gnzdef-blacklist address=143.110.183.33
@@ -5518,6 +5485,7 @@ add list=gnzdef-blacklist address=143.244.128.219
 add list=gnzdef-blacklist address=143.244.128.72
 add list=gnzdef-blacklist address=143.244.129.76
 add list=gnzdef-blacklist address=143.244.130.15
+add list=gnzdef-blacklist address=143.244.132.125
 add list=gnzdef-blacklist address=143.244.132.3
 add list=gnzdef-blacklist address=143.244.134.41
 add list=gnzdef-blacklist address=143.244.134.6
@@ -5701,7 +5669,6 @@ add list=gnzdef-blacklist address=147.182.253.11
 add list=gnzdef-blacklist address=147.182.255.205
 add list=gnzdef-blacklist address=147.189.147.110
 add list=gnzdef-blacklist address=147.219.170.153
-add list=gnzdef-blacklist address=147.234.55.227
 add list=gnzdef-blacklist address=147.30.79.198
 add list=gnzdef-blacklist address=147.30.93.151
 add list=gnzdef-blacklist address=147.50.43.242
@@ -5784,7 +5751,6 @@ add list=gnzdef-blacklist address=150.158.85.157
 add list=gnzdef-blacklist address=150.158.92.208
 add list=gnzdef-blacklist address=150.158.95.126
 add list=gnzdef-blacklist address=150.158.98.162
-add list=gnzdef-blacklist address=150.158.98.247
 add list=gnzdef-blacklist address=150.164.203.159
 add list=gnzdef-blacklist address=150.165.212.10
 add list=gnzdef-blacklist address=150.220.50.125
@@ -5811,6 +5777,7 @@ add list=gnzdef-blacklist address=151.19.148.92
 add list=gnzdef-blacklist address=151.19.237.71
 add list=gnzdef-blacklist address=151.196.57.128
 add list=gnzdef-blacklist address=151.203.81.53
+add list=gnzdef-blacklist address=151.228.119.139
 add list=gnzdef-blacklist address=151.236.53.88
 add list=gnzdef-blacklist address=151.252.109.167
 add list=gnzdef-blacklist address=151.253.65.150
@@ -5818,6 +5785,7 @@ add list=gnzdef-blacklist address=151.31.185.138
 add list=gnzdef-blacklist address=151.32.58.113
 add list=gnzdef-blacklist address=151.36.122.106
 add list=gnzdef-blacklist address=151.36.216.238
+add list=gnzdef-blacklist address=151.36.221.135
 add list=gnzdef-blacklist address=151.43.244.190
 add list=gnzdef-blacklist address=151.43.247.168
 add list=gnzdef-blacklist address=151.49.13.41
@@ -5827,7 +5795,6 @@ add list=gnzdef-blacklist address=151.61.173.165
 add list=gnzdef-blacklist address=151.61.175.234
 add list=gnzdef-blacklist address=151.63.88.80
 add list=gnzdef-blacklist address=151.74.242.6
-add list=gnzdef-blacklist address=151.80.148.32
 add list=gnzdef-blacklist address=151.82.123.184
 add list=gnzdef-blacklist address=151.84.212.161
 add list=gnzdef-blacklist address=151.84.64.165
@@ -5901,10 +5868,10 @@ add list=gnzdef-blacklist address=154.17.0.81
 add list=gnzdef-blacklist address=154.198.211.131
 add list=gnzdef-blacklist address=154.201.45.21
 add list=gnzdef-blacklist address=154.202.108.22
+add list=gnzdef-blacklist address=154.202.99.7
 add list=gnzdef-blacklist address=154.21.21.237
 add list=gnzdef-blacklist address=154.211.13.222
 add list=gnzdef-blacklist address=154.214.4.199
-add list=gnzdef-blacklist address=154.215.31.129
 add list=gnzdef-blacklist address=154.221.17.90
 add list=gnzdef-blacklist address=154.221.18.237
 add list=gnzdef-blacklist address=154.221.19.10
@@ -5914,6 +5881,7 @@ add list=gnzdef-blacklist address=154.221.29.214
 add list=gnzdef-blacklist address=154.222.235.101
 add list=gnzdef-blacklist address=154.27.19.186
 add list=gnzdef-blacklist address=154.38.97.106
+add list=gnzdef-blacklist address=154.51.148.254
 add list=gnzdef-blacklist address=154.56.193.45
 add list=gnzdef-blacklist address=154.61.75.248
 add list=gnzdef-blacklist address=154.72.194.207
@@ -5942,12 +5910,10 @@ add list=gnzdef-blacklist address=155.94.235.189
 add list=gnzdef-blacklist address=156.0.230.8
 add list=gnzdef-blacklist address=156.146.34.193
 add list=gnzdef-blacklist address=156.204.238.31
-add list=gnzdef-blacklist address=156.214.37.158
 add list=gnzdef-blacklist address=156.232.9.228
 add list=gnzdef-blacklist address=156.234.39.136
 add list=gnzdef-blacklist address=156.239.51.77
 add list=gnzdef-blacklist address=156.241.254.104
-add list=gnzdef-blacklist address=156.247.10.227
 add list=gnzdef-blacklist address=156.247.10.55
 add list=gnzdef-blacklist address=156.251.130.170
 add list=gnzdef-blacklist address=156.56.104.29
@@ -6022,7 +5988,6 @@ add list=gnzdef-blacklist address=157.245.108.35
 add list=gnzdef-blacklist address=157.245.111.221
 add list=gnzdef-blacklist address=157.245.116.238
 add list=gnzdef-blacklist address=157.245.118.173
-add list=gnzdef-blacklist address=157.245.121.73
 add list=gnzdef-blacklist address=157.245.124.160
 add list=gnzdef-blacklist address=157.245.129.142
 add list=gnzdef-blacklist address=157.245.13.253
@@ -6452,7 +6417,6 @@ add list=gnzdef-blacklist address=162.14.123.245
 add list=gnzdef-blacklist address=162.142.125.10
 add list=gnzdef-blacklist address=162.142.125.121
 add list=gnzdef-blacklist address=162.142.125.210
-add list=gnzdef-blacklist address=162.142.125.211
 add list=gnzdef-blacklist address=162.142.125.212
 add list=gnzdef-blacklist address=162.142.125.213
 add list=gnzdef-blacklist address=162.142.125.219
@@ -6487,6 +6451,7 @@ add list=gnzdef-blacklist address=162.241.129.98
 add list=gnzdef-blacklist address=162.241.156.147
 add list=gnzdef-blacklist address=162.241.201.224
 add list=gnzdef-blacklist address=162.241.222.29
+add list=gnzdef-blacklist address=162.241.71.202
 add list=gnzdef-blacklist address=162.243.116.41
 add list=gnzdef-blacklist address=162.243.136.58
 add list=gnzdef-blacklist address=162.243.146.147
@@ -6633,7 +6598,6 @@ add list=gnzdef-blacklist address=164.92.77.80
 add list=gnzdef-blacklist address=164.92.78.161
 add list=gnzdef-blacklist address=164.92.78.56
 add list=gnzdef-blacklist address=164.92.81.118
-add list=gnzdef-blacklist address=164.92.86.16
 add list=gnzdef-blacklist address=164.92.91.143
 add list=gnzdef-blacklist address=164.92.91.147
 add list=gnzdef-blacklist address=164.92.98.4
@@ -6700,8 +6664,8 @@ add list=gnzdef-blacklist address=165.22.67.229
 add list=gnzdef-blacklist address=165.22.7.94
 add list=gnzdef-blacklist address=165.22.73.254
 add list=gnzdef-blacklist address=165.22.91.88
+add list=gnzdef-blacklist address=165.22.92.81
 add list=gnzdef-blacklist address=165.22.97.194
-add list=gnzdef-blacklist address=165.22.97.23
 add list=gnzdef-blacklist address=165.22.99.216
 add list=gnzdef-blacklist address=165.227.101.226
 add list=gnzdef-blacklist address=165.227.105.145
@@ -6890,6 +6854,7 @@ add list=gnzdef-blacklist address=167.71.228.31
 add list=gnzdef-blacklist address=167.71.232.16
 add list=gnzdef-blacklist address=167.71.233.59
 add list=gnzdef-blacklist address=167.71.234.124
+add list=gnzdef-blacklist address=167.71.235.48
 add list=gnzdef-blacklist address=167.71.236.26
 add list=gnzdef-blacklist address=167.71.239.134
 add list=gnzdef-blacklist address=167.71.239.9
@@ -6989,7 +6954,6 @@ add list=gnzdef-blacklist address=168.90.157.17
 add list=gnzdef-blacklist address=168.90.157.26
 add list=gnzdef-blacklist address=169.136.40.244
 add list=gnzdef-blacklist address=169.239.128.179
-add list=gnzdef-blacklist address=169.239.45.61
 add list=gnzdef-blacklist address=170.106.113.73
 add list=gnzdef-blacklist address=170.106.119.129
 add list=gnzdef-blacklist address=170.106.167.158
@@ -7039,13 +7003,11 @@ add list=gnzdef-blacklist address=170.81.19.146
 add list=gnzdef-blacklist address=170.81.19.244
 add list=gnzdef-blacklist address=170.81.252.202
 add list=gnzdef-blacklist address=170.82.195.155
-add list=gnzdef-blacklist address=170.82.52.228
 add list=gnzdef-blacklist address=170.83.132.75
 add list=gnzdef-blacklist address=170.83.45.93
 add list=gnzdef-blacklist address=171.100.117.243
 add list=gnzdef-blacklist address=171.100.122.11
 add list=gnzdef-blacklist address=171.100.123.221
-add list=gnzdef-blacklist address=171.100.135.215
 add list=gnzdef-blacklist address=171.100.139.22
 add list=gnzdef-blacklist address=171.100.139.23
 add list=gnzdef-blacklist address=171.100.152.22
@@ -7101,7 +7063,6 @@ add list=gnzdef-blacklist address=171.107.61.94
 add list=gnzdef-blacklist address=171.110.230.57
 add list=gnzdef-blacklist address=171.217.67.220
 add list=gnzdef-blacklist address=171.223.168.184
-add list=gnzdef-blacklist address=171.224.128.110
 add list=gnzdef-blacklist address=171.224.200.86
 add list=gnzdef-blacklist address=171.227.171.200
 add list=gnzdef-blacklist address=171.228.175.183
@@ -7152,7 +7113,6 @@ add list=gnzdef-blacklist address=171.96.36.204
 add list=gnzdef-blacklist address=171.96.37.191
 add list=gnzdef-blacklist address=171.96.37.81
 add list=gnzdef-blacklist address=171.97.12.14
-add list=gnzdef-blacklist address=171.97.128.16
 add list=gnzdef-blacklist address=171.97.168.234
 add list=gnzdef-blacklist address=171.97.169.20
 add list=gnzdef-blacklist address=171.97.169.33
@@ -7372,6 +7332,7 @@ add list=gnzdef-blacklist address=175.178.14.204
 add list=gnzdef-blacklist address=175.178.170.12
 add list=gnzdef-blacklist address=175.178.174.25
 add list=gnzdef-blacklist address=175.178.179.67
+add list=gnzdef-blacklist address=175.178.221.47
 add list=gnzdef-blacklist address=175.178.35.218
 add list=gnzdef-blacklist address=175.178.61.93
 add list=gnzdef-blacklist address=175.178.77.36
@@ -7400,11 +7361,9 @@ add list=gnzdef-blacklist address=175.24.119.112
 add list=gnzdef-blacklist address=175.24.33.7
 add list=gnzdef-blacklist address=175.24.4.199
 add list=gnzdef-blacklist address=175.24.8.247
-add list=gnzdef-blacklist address=175.27.159.30
 add list=gnzdef-blacklist address=175.27.228.193
 add list=gnzdef-blacklist address=175.30.204.182
 add list=gnzdef-blacklist address=175.30.204.22
-add list=gnzdef-blacklist address=175.30.204.55
 add list=gnzdef-blacklist address=175.30.205.187
 add list=gnzdef-blacklist address=175.30.205.214
 add list=gnzdef-blacklist address=175.30.205.4
@@ -7425,7 +7384,6 @@ add list=gnzdef-blacklist address=176.12.164.151
 add list=gnzdef-blacklist address=176.122.129.114
 add list=gnzdef-blacklist address=176.122.166.133
 add list=gnzdef-blacklist address=176.126.87.142
-add list=gnzdef-blacklist address=176.14.148.185
 add list=gnzdef-blacklist address=176.142.216.192
 add list=gnzdef-blacklist address=176.145.163.207
 add list=gnzdef-blacklist address=176.149.42.40
@@ -7482,7 +7440,6 @@ add list=gnzdef-blacklist address=177.130.168.169
 add list=gnzdef-blacklist address=177.130.168.220
 add list=gnzdef-blacklist address=177.130.169.96
 add list=gnzdef-blacklist address=177.130.170.102
-add list=gnzdef-blacklist address=177.130.170.79
 add list=gnzdef-blacklist address=177.130.171.182
 add list=gnzdef-blacklist address=177.130.171.216
 add list=gnzdef-blacklist address=177.130.171.34
@@ -7517,9 +7474,9 @@ add list=gnzdef-blacklist address=177.190.74.214
 add list=gnzdef-blacklist address=177.190.75.100
 add list=gnzdef-blacklist address=177.191.170.114
 add list=gnzdef-blacklist address=177.191.175.103
+add list=gnzdef-blacklist address=177.191.186.156
 add list=gnzdef-blacklist address=177.197.207.97
 add list=gnzdef-blacklist address=177.200.1.61
-add list=gnzdef-blacklist address=177.200.212.34
 add list=gnzdef-blacklist address=177.203.153.25
 add list=gnzdef-blacklist address=177.207.166.167
 add list=gnzdef-blacklist address=177.207.207.172
@@ -7568,7 +7525,6 @@ add list=gnzdef-blacklist address=177.54.250.176
 add list=gnzdef-blacklist address=177.57.239.114
 add list=gnzdef-blacklist address=177.6.227.84
 add list=gnzdef-blacklist address=177.62.170.177
-add list=gnzdef-blacklist address=177.67.128.53
 add list=gnzdef-blacklist address=177.69.158.131
 add list=gnzdef-blacklist address=177.69.237.59
 add list=gnzdef-blacklist address=177.69.238.9
@@ -7651,7 +7607,6 @@ add list=gnzdef-blacklist address=178.251.106.243
 add list=gnzdef-blacklist address=178.251.140.3
 add list=gnzdef-blacklist address=178.254.31.112
 add list=gnzdef-blacklist address=178.32.89.175
-add list=gnzdef-blacklist address=178.33.221.142
 add list=gnzdef-blacklist address=178.35.169.154
 add list=gnzdef-blacklist address=178.38.55.227
 add list=gnzdef-blacklist address=178.38.76.184
@@ -7701,11 +7656,11 @@ add list=gnzdef-blacklist address=179.126.25.164
 add list=gnzdef-blacklist address=179.127.167.201
 add list=gnzdef-blacklist address=179.127.181.235
 add list=gnzdef-blacklist address=179.127.204.48
-add list=gnzdef-blacklist address=179.127.21.138
 add list=gnzdef-blacklist address=179.131.10.103
 add list=gnzdef-blacklist address=179.131.11.234
 add list=gnzdef-blacklist address=179.133.126.199
 add list=gnzdef-blacklist address=179.133.215.7
+add list=gnzdef-blacklist address=179.133.61.153
 add list=gnzdef-blacklist address=179.135.199.16
 add list=gnzdef-blacklist address=179.147.99.29
 add list=gnzdef-blacklist address=179.150.173.70
@@ -7938,6 +7893,7 @@ add list=gnzdef-blacklist address=180.76.183.103
 add list=gnzdef-blacklist address=180.76.183.164
 add list=gnzdef-blacklist address=180.76.184.149
 add list=gnzdef-blacklist address=180.76.184.159
+add list=gnzdef-blacklist address=180.76.184.183
 add list=gnzdef-blacklist address=180.76.185.51
 add list=gnzdef-blacklist address=180.76.186.245
 add list=gnzdef-blacklist address=180.76.186.34
@@ -8007,7 +7963,6 @@ add list=gnzdef-blacklist address=181.118.206.113
 add list=gnzdef-blacklist address=181.122.123.102
 add list=gnzdef-blacklist address=181.126.90.13
 add list=gnzdef-blacklist address=181.129.14.218
-add list=gnzdef-blacklist address=181.129.143.202
 add list=gnzdef-blacklist address=181.129.166.202
 add list=gnzdef-blacklist address=181.129.234.50
 add list=gnzdef-blacklist address=181.13.146.23
@@ -8070,7 +8025,6 @@ add list=gnzdef-blacklist address=181.48.65.66
 add list=gnzdef-blacklist address=181.48.99.155
 add list=gnzdef-blacklist address=181.49.117.166
 add list=gnzdef-blacklist address=181.49.118.185
-add list=gnzdef-blacklist address=181.49.23.73
 add list=gnzdef-blacklist address=181.49.254.238
 add list=gnzdef-blacklist address=181.49.50.202
 add list=gnzdef-blacklist address=181.49.53.26
@@ -8089,6 +8043,7 @@ add list=gnzdef-blacklist address=181.78.3.13
 add list=gnzdef-blacklist address=181.78.3.14
 add list=gnzdef-blacklist address=181.88.198.63
 add list=gnzdef-blacklist address=181.94.226.236
+add list=gnzdef-blacklist address=181.94.247.37
 add list=gnzdef-blacklist address=182.101.78.146
 add list=gnzdef-blacklist address=182.106.216.4
 add list=gnzdef-blacklist address=182.111.40.150
@@ -8096,6 +8051,7 @@ add list=gnzdef-blacklist address=182.112.248.103
 add list=gnzdef-blacklist address=182.112.251.92
 add list=gnzdef-blacklist address=182.112.252.231
 add list=gnzdef-blacklist address=182.112.255.217
+add list=gnzdef-blacklist address=182.112.255.98
 add list=gnzdef-blacklist address=182.117.201.129
 add list=gnzdef-blacklist address=182.126.177.27
 add list=gnzdef-blacklist address=182.132.24.29
@@ -8458,11 +8414,9 @@ add list=gnzdef-blacklist address=185.65.245.106
 add list=gnzdef-blacklist address=185.67.82.114
 add list=gnzdef-blacklist address=185.78.165.144
 add list=gnzdef-blacklist address=185.78.165.21
-add list=gnzdef-blacklist address=185.80.204.196
 add list=gnzdef-blacklist address=185.86.79.185
 add list=gnzdef-blacklist address=185.91.166.37
 add list=gnzdef-blacklist address=185.97.118.17
-add list=gnzdef-blacklist address=185.97.18.138
 add list=gnzdef-blacklist address=186.1.210.14
 add list=gnzdef-blacklist address=186.10.125.209
 add list=gnzdef-blacklist address=186.10.180.235
@@ -8516,6 +8470,7 @@ add list=gnzdef-blacklist address=186.179.100.249
 add list=gnzdef-blacklist address=186.179.100.33
 add list=gnzdef-blacklist address=186.179.100.55
 add list=gnzdef-blacklist address=186.179.106.231
+add list=gnzdef-blacklist address=186.179.108.166
 add list=gnzdef-blacklist address=186.188.253.238
 add list=gnzdef-blacklist address=186.189.193.207
 add list=gnzdef-blacklist address=186.19.69.133
@@ -8534,10 +8489,10 @@ add list=gnzdef-blacklist address=186.206.174.31
 add list=gnzdef-blacklist address=186.209.41.37
 add list=gnzdef-blacklist address=186.209.61.154
 add list=gnzdef-blacklist address=186.210.119.31
-add list=gnzdef-blacklist address=186.210.8.167
 add list=gnzdef-blacklist address=186.211.105.178
 add list=gnzdef-blacklist address=186.212.179.121
 add list=gnzdef-blacklist address=186.214.137.174
+add list=gnzdef-blacklist address=186.215.100.34
 add list=gnzdef-blacklist address=186.215.195.249
 add list=gnzdef-blacklist address=186.215.197.15
 add list=gnzdef-blacklist address=186.215.198.137
@@ -8578,7 +8533,6 @@ add list=gnzdef-blacklist address=186.67.248.8
 add list=gnzdef-blacklist address=186.67.77.26
 add list=gnzdef-blacklist address=186.7.83.27
 add list=gnzdef-blacklist address=186.79.8.74
-add list=gnzdef-blacklist address=186.81.54.25
 add list=gnzdef-blacklist address=186.84.174.240
 add list=gnzdef-blacklist address=186.96.99.86
 add list=gnzdef-blacklist address=186.98.46.186
@@ -8666,7 +8620,6 @@ add list=gnzdef-blacklist address=187.51.73.2
 add list=gnzdef-blacklist address=187.51.80.90
 add list=gnzdef-blacklist address=187.54.119.89
 add list=gnzdef-blacklist address=187.56.73.184
-add list=gnzdef-blacklist address=187.6.3.3
 add list=gnzdef-blacklist address=187.70.206.175
 add list=gnzdef-blacklist address=187.72.177.131
 add list=gnzdef-blacklist address=187.72.3.246
@@ -8674,7 +8627,6 @@ add list=gnzdef-blacklist address=187.75.209.161
 add list=gnzdef-blacklist address=187.75.55.113
 add list=gnzdef-blacklist address=187.8.112.158
 add list=gnzdef-blacklist address=187.8.168.140
-add list=gnzdef-blacklist address=187.8.227.238
 add list=gnzdef-blacklist address=187.85.160.189
 add list=gnzdef-blacklist address=187.85.18.113
 add list=gnzdef-blacklist address=187.9.149.114
@@ -8751,7 +8703,6 @@ add list=gnzdef-blacklist address=188.80.42.236
 add list=gnzdef-blacklist address=188.81.133.7
 add list=gnzdef-blacklist address=188.82.162.207
 add list=gnzdef-blacklist address=188.82.27.91
-add list=gnzdef-blacklist address=188.85.121.47
 add list=gnzdef-blacklist address=189.1.163.101
 add list=gnzdef-blacklist address=189.100.73.39
 add list=gnzdef-blacklist address=189.108.108.45
@@ -8821,7 +8772,6 @@ add list=gnzdef-blacklist address=189.31.72.81
 add list=gnzdef-blacklist address=189.33.0.103
 add list=gnzdef-blacklist address=189.33.39.168
 add list=gnzdef-blacklist address=189.34.166.218
-add list=gnzdef-blacklist address=189.34.52.13
 add list=gnzdef-blacklist address=189.38.106.97
 add list=gnzdef-blacklist address=189.39.112.93
 add list=gnzdef-blacklist address=189.4.149.140
@@ -8830,7 +8780,6 @@ add list=gnzdef-blacklist address=189.41.84.1
 add list=gnzdef-blacklist address=189.44.5.238
 add list=gnzdef-blacklist address=189.44.8.241
 add list=gnzdef-blacklist address=189.45.78.175
-add list=gnzdef-blacklist address=189.49.184.201
 add list=gnzdef-blacklist address=189.5.125.55
 add list=gnzdef-blacklist address=189.50.146.223
 add list=gnzdef-blacklist address=189.50.146.232
@@ -8903,7 +8852,6 @@ add list=gnzdef-blacklist address=190.129.72.229
 add list=gnzdef-blacklist address=190.13.81.218
 add list=gnzdef-blacklist address=190.13.81.39
 add list=gnzdef-blacklist address=190.136.50.112
-add list=gnzdef-blacklist address=190.138.132.219
 add list=gnzdef-blacklist address=190.138.132.235
 add list=gnzdef-blacklist address=190.138.132.60
 add list=gnzdef-blacklist address=190.138.240.85
@@ -8917,6 +8865,7 @@ add list=gnzdef-blacklist address=190.144.182.86
 add list=gnzdef-blacklist address=190.144.79.157
 add list=gnzdef-blacklist address=190.145.12.233
 add list=gnzdef-blacklist address=190.145.123.26
+add list=gnzdef-blacklist address=190.145.149.154
 add list=gnzdef-blacklist address=190.145.192.106
 add list=gnzdef-blacklist address=190.145.69.123
 add list=gnzdef-blacklist address=190.145.81.37
@@ -8929,7 +8878,6 @@ add list=gnzdef-blacklist address=190.153.188.146
 add list=gnzdef-blacklist address=190.153.249.99
 add list=gnzdef-blacklist address=190.156.238.155
 add list=gnzdef-blacklist address=190.16.52.12
-add list=gnzdef-blacklist address=190.165.166.138
 add list=gnzdef-blacklist address=190.171.175.179
 add list=gnzdef-blacklist address=190.18.177.253
 add list=gnzdef-blacklist address=190.181.15.138
@@ -8950,7 +8898,6 @@ add list=gnzdef-blacklist address=190.193.136.171
 add list=gnzdef-blacklist address=190.196.70.21
 add list=gnzdef-blacklist address=190.202.124.93
 add list=gnzdef-blacklist address=190.202.44.194
-add list=gnzdef-blacklist address=190.202.7.138
 add list=gnzdef-blacklist address=190.210.182.179
 add list=gnzdef-blacklist address=190.216.236.62
 add list=gnzdef-blacklist address=190.216.250.238
@@ -9048,6 +8995,7 @@ add list=gnzdef-blacklist address=191.252.195.49
 add list=gnzdef-blacklist address=191.252.201.154
 add list=gnzdef-blacklist address=191.252.202.211
 add list=gnzdef-blacklist address=191.252.93.222
+add list=gnzdef-blacklist address=191.255.28.241
 add list=gnzdef-blacklist address=191.32.150.180
 add list=gnzdef-blacklist address=191.33.105.252
 add list=gnzdef-blacklist address=191.5.165.186
@@ -9078,7 +9026,6 @@ add list=gnzdef-blacklist address=192.169.151.16
 add list=gnzdef-blacklist address=192.169.152.218
 add list=gnzdef-blacklist address=192.18.148.123
 add list=gnzdef-blacklist address=192.186.12.25
-add list=gnzdef-blacklist address=192.187.127.22
 add list=gnzdef-blacklist address=192.199.181.59
 add list=gnzdef-blacklist address=192.199.60.13
 add list=gnzdef-blacklist address=192.208.118.161
@@ -9088,11 +9035,8 @@ add list=gnzdef-blacklist address=192.227.193.204
 add list=gnzdef-blacklist address=192.230.133.152
 add list=gnzdef-blacklist address=192.24.36.189
 add list=gnzdef-blacklist address=192.24.36.59
-add list=gnzdef-blacklist address=192.24.36.61
-add list=gnzdef-blacklist address=192.24.36.89
 add list=gnzdef-blacklist address=192.24.46.32
 add list=gnzdef-blacklist address=192.24.46.51
-add list=gnzdef-blacklist address=192.24.46.94
 add list=gnzdef-blacklist address=192.24.61.79
 add list=gnzdef-blacklist address=192.241.132.102
 add list=gnzdef-blacklist address=192.241.134.81
@@ -9126,7 +9070,6 @@ add list=gnzdef-blacklist address=192.241.225.109
 add list=gnzdef-blacklist address=192.241.226.104
 add list=gnzdef-blacklist address=192.248.145.78
 add list=gnzdef-blacklist address=192.253.228.131
-add list=gnzdef-blacklist address=192.254.152.23
 add list=gnzdef-blacklist address=192.3.245.191
 add list=gnzdef-blacklist address=192.3.253.15
 add list=gnzdef-blacklist address=192.3.253.7
@@ -9138,7 +9081,6 @@ add list=gnzdef-blacklist address=192.72.56.94
 add list=gnzdef-blacklist address=192.81.212.80
 add list=gnzdef-blacklist address=192.81.213.138
 add list=gnzdef-blacklist address=192.81.217.67
-add list=gnzdef-blacklist address=192.95.49.206
 add list=gnzdef-blacklist address=192.99.59.56
 add list=gnzdef-blacklist address=193.109.70.180
 add list=gnzdef-blacklist address=193.118.53.140
@@ -9153,7 +9095,6 @@ add list=gnzdef-blacklist address=193.160.140.129
 add list=gnzdef-blacklist address=193.164.4.118
 add list=gnzdef-blacklist address=193.179.8.182
 add list=gnzdef-blacklist address=193.179.8.186
-add list=gnzdef-blacklist address=193.201.9.164
 add list=gnzdef-blacklist address=193.226.40.134
 add list=gnzdef-blacklist address=193.226.6.228
 add list=gnzdef-blacklist address=193.228.194.37
@@ -9399,7 +9340,6 @@ add list=gnzdef-blacklist address=2.56.57.160
 add list=gnzdef-blacklist address=2.56.57.167
 add list=gnzdef-blacklist address=2.56.57.226
 add list=gnzdef-blacklist address=2.56.57.231
-add list=gnzdef-blacklist address=2.56.57.251
 add list=gnzdef-blacklist address=2.56.57.26
 add list=gnzdef-blacklist address=2.56.57.63
 add list=gnzdef-blacklist address=2.56.57.95
@@ -9417,7 +9357,6 @@ add list=gnzdef-blacklist address=2.56.59.78
 add list=gnzdef-blacklist address=2.57.121.58
 add list=gnzdef-blacklist address=2.57.122.153
 add list=gnzdef-blacklist address=2.57.122.216
-add list=gnzdef-blacklist address=2.57.122.32
 add list=gnzdef-blacklist address=2.57.122.34
 add list=gnzdef-blacklist address=2.58.119.233
 add list=gnzdef-blacklist address=2.58.149.155
@@ -9479,6 +9418,7 @@ add list=gnzdef-blacklist address=20.185.216.180
 add list=gnzdef-blacklist address=20.187.97.66
 add list=gnzdef-blacklist address=20.188.24.78
 add list=gnzdef-blacklist address=20.188.89.81
+add list=gnzdef-blacklist address=20.191.231.161
 add list=gnzdef-blacklist address=20.193.247.177
 add list=gnzdef-blacklist address=20.194.60.135
 add list=gnzdef-blacklist address=20.196.10.24
@@ -9578,6 +9518,8 @@ add list=gnzdef-blacklist address=20.87.214.10
 add list=gnzdef-blacklist address=20.87.73.140
 add list=gnzdef-blacklist address=20.88.121.148
 add list=gnzdef-blacklist address=20.89.110.50
+add list=gnzdef-blacklist address=20.89.243.222
+add list=gnzdef-blacklist address=20.91.195.201
 add list=gnzdef-blacklist address=20.91.219.70
 add list=gnzdef-blacklist address=20.98.82.219
 add list=gnzdef-blacklist address=20.99.156.193
@@ -9647,7 +9589,6 @@ add list=gnzdef-blacklist address=200.29.116.194
 add list=gnzdef-blacklist address=200.29.220.132
 add list=gnzdef-blacklist address=200.31.122.174
 add list=gnzdef-blacklist address=200.32.84.12
-add list=gnzdef-blacklist address=200.32.84.13
 add list=gnzdef-blacklist address=200.35.195.82
 add list=gnzdef-blacklist address=200.4.96.46
 add list=gnzdef-blacklist address=200.41.86.59
@@ -9812,7 +9753,6 @@ add list=gnzdef-blacklist address=202.133.60.245
 add list=gnzdef-blacklist address=202.136.243.53
 add list=gnzdef-blacklist address=202.137.128.233
 add list=gnzdef-blacklist address=202.137.130.75
-add list=gnzdef-blacklist address=202.137.134.174
 add list=gnzdef-blacklist address=202.137.154.91
 add list=gnzdef-blacklist address=202.137.20.53
 add list=gnzdef-blacklist address=202.137.26.4
@@ -9841,7 +9781,6 @@ add list=gnzdef-blacklist address=202.170.51.234
 add list=gnzdef-blacklist address=202.170.57.253
 add list=gnzdef-blacklist address=202.175.173.66
 add list=gnzdef-blacklist address=202.176.184.122
-add list=gnzdef-blacklist address=202.176.184.129
 add list=gnzdef-blacklist address=202.188.123.148
 add list=gnzdef-blacklist address=202.188.189.70
 add list=gnzdef-blacklist address=202.188.20.115
@@ -10016,6 +9955,7 @@ add list=gnzdef-blacklist address=206.189.151.151
 add list=gnzdef-blacklist address=206.189.153.145
 add list=gnzdef-blacklist address=206.189.154.64
 add list=gnzdef-blacklist address=206.189.156.216
+add list=gnzdef-blacklist address=206.189.160.156
 add list=gnzdef-blacklist address=206.189.160.233
 add list=gnzdef-blacklist address=206.189.171.204
 add list=gnzdef-blacklist address=206.189.177.59
@@ -10087,7 +10027,6 @@ add list=gnzdef-blacklist address=207.154.241.112
 add list=gnzdef-blacklist address=207.154.244.110
 add list=gnzdef-blacklist address=207.154.245.138
 add list=gnzdef-blacklist address=207.154.246.49
-add list=gnzdef-blacklist address=207.161.138.65
 add list=gnzdef-blacklist address=207.174.227.182
 add list=gnzdef-blacklist address=207.177.103.88
 add list=gnzdef-blacklist address=207.180.204.79
@@ -10115,9 +10054,9 @@ add list=gnzdef-blacklist address=207.254.31.209
 add list=gnzdef-blacklist address=207.255.32.208
 add list=gnzdef-blacklist address=207.41.179.35
 add list=gnzdef-blacklist address=207.46.227.197
+add list=gnzdef-blacklist address=207.46.229.124
 add list=gnzdef-blacklist address=207.5.15.190
 add list=gnzdef-blacklist address=207.5.45.222
-add list=gnzdef-blacklist address=207.55.244.15
 add list=gnzdef-blacklist address=207.81.1.189
 add list=gnzdef-blacklist address=208.100.26.233
 add list=gnzdef-blacklist address=208.100.26.235
@@ -10218,7 +10157,6 @@ add list=gnzdef-blacklist address=210.114.18.28
 add list=gnzdef-blacklist address=210.114.22.126
 add list=gnzdef-blacklist address=210.12.42.18
 add list=gnzdef-blacklist address=210.126.38.228
-add list=gnzdef-blacklist address=210.153.166.13
 add list=gnzdef-blacklist address=210.16.187.206
 add list=gnzdef-blacklist address=210.16.189.15
 add list=gnzdef-blacklist address=210.16.189.156
@@ -10234,7 +10172,6 @@ add list=gnzdef-blacklist address=210.195.9.145
 add list=gnzdef-blacklist address=210.203.22.119
 add list=gnzdef-blacklist address=210.204.125.195
 add list=gnzdef-blacklist address=210.206.24.234
-add list=gnzdef-blacklist address=210.211.116.200
 add list=gnzdef-blacklist address=210.211.116.204
 add list=gnzdef-blacklist address=210.211.116.80
 add list=gnzdef-blacklist address=210.211.117.212
@@ -10253,6 +10190,7 @@ add list=gnzdef-blacklist address=210.245.90.206
 add list=gnzdef-blacklist address=210.245.92.136
 add list=gnzdef-blacklist address=210.26.48.46
 add list=gnzdef-blacklist address=210.3.247.51
+add list=gnzdef-blacklist address=210.3.251.66
 add list=gnzdef-blacklist address=210.3.49.51
 add list=gnzdef-blacklist address=210.3.53.50
 add list=gnzdef-blacklist address=210.3.92.14
@@ -10271,7 +10209,7 @@ add list=gnzdef-blacklist address=210.92.84.78
 add list=gnzdef-blacklist address=210.97.86.61
 add list=gnzdef-blacklist address=211.104.172.54
 add list=gnzdef-blacklist address=211.114.50.200
-add list=gnzdef-blacklist address=211.137.8.103
+add list=gnzdef-blacklist address=211.136.168.2
 add list=gnzdef-blacklist address=211.140.196.90
 add list=gnzdef-blacklist address=211.143.122.10
 add list=gnzdef-blacklist address=211.143.255.70
@@ -10298,7 +10236,6 @@ add list=gnzdef-blacklist address=211.21.30.7
 add list=gnzdef-blacklist address=211.21.30.9
 add list=gnzdef-blacklist address=211.210.207.64
 add list=gnzdef-blacklist address=211.210.96.94
-add list=gnzdef-blacklist address=211.217.98.125
 add list=gnzdef-blacklist address=211.218.100.233
 add list=gnzdef-blacklist address=211.218.126.195
 add list=gnzdef-blacklist address=211.218.240.119
@@ -10333,13 +10270,11 @@ add list=gnzdef-blacklist address=211.26.187.128
 add list=gnzdef-blacklist address=211.33.123.88
 add list=gnzdef-blacklist address=211.34.251.153
 add list=gnzdef-blacklist address=211.36.131.77
-add list=gnzdef-blacklist address=211.36.133.143
 add list=gnzdef-blacklist address=211.36.133.29
 add list=gnzdef-blacklist address=211.36.141.101
 add list=gnzdef-blacklist address=211.36.141.103
 add list=gnzdef-blacklist address=211.36.141.105
 add list=gnzdef-blacklist address=211.36.141.107
-add list=gnzdef-blacklist address=211.36.141.108
 add list=gnzdef-blacklist address=211.36.141.109
 add list=gnzdef-blacklist address=211.36.141.113
 add list=gnzdef-blacklist address=211.36.141.116
@@ -10349,7 +10284,6 @@ add list=gnzdef-blacklist address=211.36.141.120
 add list=gnzdef-blacklist address=211.36.141.122
 add list=gnzdef-blacklist address=211.36.141.124
 add list=gnzdef-blacklist address=211.36.141.127
-add list=gnzdef-blacklist address=211.36.141.131
 add list=gnzdef-blacklist address=211.36.141.133
 add list=gnzdef-blacklist address=211.36.141.134
 add list=gnzdef-blacklist address=211.36.141.135
@@ -10372,6 +10306,7 @@ add list=gnzdef-blacklist address=211.36.141.17
 add list=gnzdef-blacklist address=211.36.141.171
 add list=gnzdef-blacklist address=211.36.141.174
 add list=gnzdef-blacklist address=211.36.141.176
+add list=gnzdef-blacklist address=211.36.141.177
 add list=gnzdef-blacklist address=211.36.141.178
 add list=gnzdef-blacklist address=211.36.141.18
 add list=gnzdef-blacklist address=211.36.141.185
@@ -10444,9 +10379,9 @@ add list=gnzdef-blacklist address=211.36.141.96
 add list=gnzdef-blacklist address=211.36.141.97
 add list=gnzdef-blacklist address=211.36.142.165
 add list=gnzdef-blacklist address=211.36.142.2
+add list=gnzdef-blacklist address=211.36.146.170
 add list=gnzdef-blacklist address=211.36.146.217
 add list=gnzdef-blacklist address=211.36.156.142
-add list=gnzdef-blacklist address=211.36.156.74
 add list=gnzdef-blacklist address=211.37.174.72
 add list=gnzdef-blacklist address=211.40.129.246
 add list=gnzdef-blacklist address=211.43.12.240
@@ -10475,7 +10410,6 @@ add list=gnzdef-blacklist address=212.156.17.218
 add list=gnzdef-blacklist address=212.159.78.178
 add list=gnzdef-blacklist address=212.170.58.4
 add list=gnzdef-blacklist address=212.188.173.12
-add list=gnzdef-blacklist address=212.192.241.108
 add list=gnzdef-blacklist address=212.192.241.19
 add list=gnzdef-blacklist address=212.193.30.204
 add list=gnzdef-blacklist address=212.200.26.202
@@ -10517,7 +10451,6 @@ add list=gnzdef-blacklist address=213.230.108.73
 add list=gnzdef-blacklist address=213.230.124.17
 add list=gnzdef-blacklist address=213.230.65.53
 add list=gnzdef-blacklist address=213.230.67.32
-add list=gnzdef-blacklist address=213.230.71.159
 add list=gnzdef-blacklist address=213.230.76.61
 add list=gnzdef-blacklist address=213.230.90.96
 add list=gnzdef-blacklist address=213.230.96.19
@@ -10591,12 +10524,10 @@ add list=gnzdef-blacklist address=217.160.251.38
 add list=gnzdef-blacklist address=217.160.75.121
 add list=gnzdef-blacklist address=217.160.9.187
 add list=gnzdef-blacklist address=217.161.98.253
-add list=gnzdef-blacklist address=217.165.147.163
 add list=gnzdef-blacklist address=217.165.97.94
 add list=gnzdef-blacklist address=217.181.179.192
 add list=gnzdef-blacklist address=217.182.16.15
 add list=gnzdef-blacklist address=217.182.175.39
-add list=gnzdef-blacklist address=217.182.75.250
 add list=gnzdef-blacklist address=217.196.141.136
 add list=gnzdef-blacklist address=217.21.60.72
 add list=gnzdef-blacklist address=217.232.225.125
@@ -10606,6 +10537,7 @@ add list=gnzdef-blacklist address=217.251.209.25
 add list=gnzdef-blacklist address=217.251.211.14
 add list=gnzdef-blacklist address=217.251.212.11
 add list=gnzdef-blacklist address=217.251.214.217
+add list=gnzdef-blacklist address=217.251.214.97
 add list=gnzdef-blacklist address=217.251.215.144
 add list=gnzdef-blacklist address=217.251.215.205
 add list=gnzdef-blacklist address=217.251.215.252
@@ -10642,9 +10574,6 @@ add list=gnzdef-blacklist address=217.88.165.190
 add list=gnzdef-blacklist address=217.88.166.20
 add list=gnzdef-blacklist address=217.88.167.135
 add list=gnzdef-blacklist address=217.88.167.183
-add list=gnzdef-blacklist address=217.88.167.36
-add list=gnzdef-blacklist address=217.88.167.41
-add list=gnzdef-blacklist address=217.88.167.69
 add list=gnzdef-blacklist address=217.88.168.112
 add list=gnzdef-blacklist address=217.88.171.67
 add list=gnzdef-blacklist address=217.88.172.78
@@ -10675,7 +10604,6 @@ add list=gnzdef-blacklist address=218.151.86.112
 add list=gnzdef-blacklist address=218.152.182.148
 add list=gnzdef-blacklist address=218.154.184.236
 add list=gnzdef-blacklist address=218.154.239.1
-add list=gnzdef-blacklist address=218.156.130.10
 add list=gnzdef-blacklist address=218.16.177.38
 add list=gnzdef-blacklist address=218.161.41.117
 add list=gnzdef-blacklist address=218.186.143.48
@@ -10707,7 +10635,6 @@ add list=gnzdef-blacklist address=218.25.161.226
 add list=gnzdef-blacklist address=218.255.245.10
 add list=gnzdef-blacklist address=218.26.163.125
 add list=gnzdef-blacklist address=218.28.58.186
-add list=gnzdef-blacklist address=218.29.184.71
 add list=gnzdef-blacklist address=218.48.130.113
 add list=gnzdef-blacklist address=218.50.106.208
 add list=gnzdef-blacklist address=218.50.134.83
@@ -10950,7 +10877,6 @@ add list=gnzdef-blacklist address=222.252.42.209
 add list=gnzdef-blacklist address=222.252.98.185
 add list=gnzdef-blacklist address=222.254.205.36
 add list=gnzdef-blacklist address=222.254.210.100
-add list=gnzdef-blacklist address=222.254.212.226
 add list=gnzdef-blacklist address=222.254.28.78
 add list=gnzdef-blacklist address=222.255.115.237
 add list=gnzdef-blacklist address=222.255.148.167
@@ -11008,7 +10934,6 @@ add list=gnzdef-blacklist address=223.197.175.91
 add list=gnzdef-blacklist address=223.197.186.7
 add list=gnzdef-blacklist address=223.197.188.206
 add list=gnzdef-blacklist address=223.197.199.52
-add list=gnzdef-blacklist address=223.197.208.128
 add list=gnzdef-blacklist address=223.197.220.67
 add list=gnzdef-blacklist address=223.197.226.51
 add list=gnzdef-blacklist address=223.197.61.209
@@ -11045,7 +10970,6 @@ add list=gnzdef-blacklist address=223.99.170.130
 add list=gnzdef-blacklist address=223.99.170.131
 add list=gnzdef-blacklist address=223.99.170.132
 add list=gnzdef-blacklist address=223.99.170.133
-add list=gnzdef-blacklist address=23.101.5.96
 add list=gnzdef-blacklist address=23.102.112.142
 add list=gnzdef-blacklist address=23.105.211.157
 add list=gnzdef-blacklist address=23.105.211.98
@@ -11093,6 +11017,7 @@ add list=gnzdef-blacklist address=23.224.111.88
 add list=gnzdef-blacklist address=23.224.111.90
 add list=gnzdef-blacklist address=23.224.186.137
 add list=gnzdef-blacklist address=23.224.186.208
+add list=gnzdef-blacklist address=23.224.186.222
 add list=gnzdef-blacklist address=23.224.186.51
 add list=gnzdef-blacklist address=23.224.186.70
 add list=gnzdef-blacklist address=23.224.189.183
@@ -11170,7 +11095,6 @@ add list=gnzdef-blacklist address=24.159.81.170
 add list=gnzdef-blacklist address=24.172.172.2
 add list=gnzdef-blacklist address=24.173.42.146
 add list=gnzdef-blacklist address=24.179.40.213
-add list=gnzdef-blacklist address=24.180.25.204
 add list=gnzdef-blacklist address=24.180.54.245
 add list=gnzdef-blacklist address=24.190.234.154
 add list=gnzdef-blacklist address=24.194.231.208
@@ -11185,7 +11109,6 @@ add list=gnzdef-blacklist address=24.223.112.170
 add list=gnzdef-blacklist address=24.224.178.87
 add list=gnzdef-blacklist address=24.229.67.86
 add list=gnzdef-blacklist address=24.233.26.241
-add list=gnzdef-blacklist address=24.237.231.107
 add list=gnzdef-blacklist address=24.242.246.34
 add list=gnzdef-blacklist address=24.244.92.200
 add list=gnzdef-blacklist address=24.244.93.107
@@ -11325,7 +11248,6 @@ add list=gnzdef-blacklist address=31.182.34.86
 add list=gnzdef-blacklist address=31.184.194.68
 add list=gnzdef-blacklist address=31.184.198.71
 add list=gnzdef-blacklist address=31.185.99.202
-add list=gnzdef-blacklist address=31.19.118.179
 add list=gnzdef-blacklist address=31.19.223.244
 add list=gnzdef-blacklist address=31.202.97.15
 add list=gnzdef-blacklist address=31.208.62.57
@@ -11346,7 +11268,6 @@ add list=gnzdef-blacklist address=31.23.9.184
 add list=gnzdef-blacklist address=31.24.10.71
 add list=gnzdef-blacklist address=31.27.105.101
 add list=gnzdef-blacklist address=31.27.35.138
-add list=gnzdef-blacklist address=31.28.19.136
 add list=gnzdef-blacklist address=31.29.46.171
 add list=gnzdef-blacklist address=31.30.91.115
 add list=gnzdef-blacklist address=31.4.243.89
@@ -11367,7 +11288,6 @@ add list=gnzdef-blacklist address=34.124.159.90
 add list=gnzdef-blacklist address=34.125.109.78
 add list=gnzdef-blacklist address=34.125.158.101
 add list=gnzdef-blacklist address=34.125.24.132
-add list=gnzdef-blacklist address=34.125.27.161
 add list=gnzdef-blacklist address=34.125.47.153
 add list=gnzdef-blacklist address=34.126.185.10
 add list=gnzdef-blacklist address=34.130.55.5
@@ -11384,7 +11304,6 @@ add list=gnzdef-blacklist address=34.216.21.251
 add list=gnzdef-blacklist address=34.219.123.248
 add list=gnzdef-blacklist address=34.241.61.109
 add list=gnzdef-blacklist address=34.248.135.179
-add list=gnzdef-blacklist address=34.253.80.41
 add list=gnzdef-blacklist address=34.64.215.194
 add list=gnzdef-blacklist address=34.64.215.4
 add list=gnzdef-blacklist address=34.65.234.0
@@ -11435,7 +11354,6 @@ add list=gnzdef-blacklist address=35.193.222.165
 add list=gnzdef-blacklist address=35.193.80.227
 add list=gnzdef-blacklist address=35.194.196.236
 add list=gnzdef-blacklist address=35.194.36.47
-add list=gnzdef-blacklist address=35.195.93.98
 add list=gnzdef-blacklist address=35.196.217.244
 add list=gnzdef-blacklist address=35.197.204.193
 add list=gnzdef-blacklist address=35.198.213.250
@@ -11558,6 +11476,7 @@ add list=gnzdef-blacklist address=37.15.80.128
 add list=gnzdef-blacklist address=37.150.20.29
 add list=gnzdef-blacklist address=37.157.43.70
 add list=gnzdef-blacklist address=37.159.101.102
+add list=gnzdef-blacklist address=37.159.108.109
 add list=gnzdef-blacklist address=37.159.162.162
 add list=gnzdef-blacklist address=37.159.240.182
 add list=gnzdef-blacklist address=37.177.84.123
@@ -11766,7 +11685,6 @@ add list=gnzdef-blacklist address=42.224.117.254
 add list=gnzdef-blacklist address=42.228.59.226
 add list=gnzdef-blacklist address=42.231.28.101
 add list=gnzdef-blacklist address=42.231.28.232
-add list=gnzdef-blacklist address=42.231.30.18
 add list=gnzdef-blacklist address=42.231.31.162
 add list=gnzdef-blacklist address=42.231.60.44
 add list=gnzdef-blacklist address=42.231.62.215
@@ -12015,7 +11933,6 @@ add list=gnzdef-blacklist address=43.134.92.75
 add list=gnzdef-blacklist address=43.135.159.26
 add list=gnzdef-blacklist address=43.135.165.147
 add list=gnzdef-blacklist address=43.135.88.191
-add list=gnzdef-blacklist address=43.138.10.23
 add list=gnzdef-blacklist address=43.138.208.191
 add list=gnzdef-blacklist address=43.153.1.155
 add list=gnzdef-blacklist address=43.153.13.106
@@ -12664,7 +12581,6 @@ add list=gnzdef-blacklist address=45.118.33.71
 add list=gnzdef-blacklist address=45.118.34.26
 add list=gnzdef-blacklist address=45.118.34.73
 add list=gnzdef-blacklist address=45.119.212.6
-add list=gnzdef-blacklist address=45.119.80.8
 add list=gnzdef-blacklist address=45.119.81.134
 add list=gnzdef-blacklist address=45.119.81.236
 add list=gnzdef-blacklist address=45.119.84.227
@@ -12947,6 +12863,7 @@ add list=gnzdef-blacklist address=46.146.240.185
 add list=gnzdef-blacklist address=46.146.252.116
 add list=gnzdef-blacklist address=46.160.10.197
 add list=gnzdef-blacklist address=46.161.11.2
+add list=gnzdef-blacklist address=46.170.30.146
 add list=gnzdef-blacklist address=46.171.49.89
 add list=gnzdef-blacklist address=46.191.196.195
 add list=gnzdef-blacklist address=46.191.249.249
@@ -13008,6 +12925,7 @@ add list=gnzdef-blacklist address=47.241.26.170
 add list=gnzdef-blacklist address=47.241.31.86
 add list=gnzdef-blacklist address=47.241.33.23
 add list=gnzdef-blacklist address=47.242.1.191
+add list=gnzdef-blacklist address=47.242.118.175
 add list=gnzdef-blacklist address=47.242.146.19
 add list=gnzdef-blacklist address=47.242.248.94
 add list=gnzdef-blacklist address=47.245.35.63
@@ -13187,7 +13105,6 @@ add list=gnzdef-blacklist address=49.76.130.88
 add list=gnzdef-blacklist address=49.77.229.64
 add list=gnzdef-blacklist address=49.77.59.27
 add list=gnzdef-blacklist address=49.80.255.198
-add list=gnzdef-blacklist address=49.82.106.137
 add list=gnzdef-blacklist address=49.82.106.152
 add list=gnzdef-blacklist address=49.82.106.25
 add list=gnzdef-blacklist address=49.82.106.47
@@ -13213,12 +13130,10 @@ add list=gnzdef-blacklist address=49.82.163.161
 add list=gnzdef-blacklist address=49.82.163.177
 add list=gnzdef-blacklist address=49.82.163.35
 add list=gnzdef-blacklist address=49.82.163.75
-add list=gnzdef-blacklist address=49.82.163.90
 add list=gnzdef-blacklist address=49.82.55.34
 add list=gnzdef-blacklist address=49.82.55.45
 add list=gnzdef-blacklist address=49.84.159.63
 add list=gnzdef-blacklist address=49.84.172.144
-add list=gnzdef-blacklist address=49.85.191.123
 add list=gnzdef-blacklist address=49.86.216.220
 add list=gnzdef-blacklist address=49.87.253.130
 add list=gnzdef-blacklist address=49.87.253.215
@@ -13247,7 +13162,6 @@ add list=gnzdef-blacklist address=49.88.112.68
 add list=gnzdef-blacklist address=49.88.112.72
 add list=gnzdef-blacklist address=49.88.112.73
 add list=gnzdef-blacklist address=49.88.112.75
-add list=gnzdef-blacklist address=49.88.112.76
 add list=gnzdef-blacklist address=49.88.112.77
 add list=gnzdef-blacklist address=49.96.234.171
 add list=gnzdef-blacklist address=5.100.255.232
@@ -13269,6 +13183,7 @@ add list=gnzdef-blacklist address=5.101.157.235
 add list=gnzdef-blacklist address=5.101.157.248
 add list=gnzdef-blacklist address=5.101.157.25
 add list=gnzdef-blacklist address=5.101.157.29
+add list=gnzdef-blacklist address=5.101.157.32
 add list=gnzdef-blacklist address=5.101.157.36
 add list=gnzdef-blacklist address=5.101.157.56
 add list=gnzdef-blacklist address=5.101.157.8
@@ -13312,6 +13227,8 @@ add list=gnzdef-blacklist address=5.21.51.202
 add list=gnzdef-blacklist address=5.228.42.60
 add list=gnzdef-blacklist address=5.238.213.105
 add list=gnzdef-blacklist address=5.251.159.6
+add list=gnzdef-blacklist address=5.251.183.143
+add list=gnzdef-blacklist address=5.251.205.140
 add list=gnzdef-blacklist address=5.251.58.137
 add list=gnzdef-blacklist address=5.255.101.131
 add list=gnzdef-blacklist address=5.255.253.146
@@ -13334,14 +13251,12 @@ add list=gnzdef-blacklist address=5.79.106.146
 add list=gnzdef-blacklist address=5.8.10.202
 add list=gnzdef-blacklist address=5.83.176.161
 add list=gnzdef-blacklist address=5.88.161.142
-add list=gnzdef-blacklist address=5.88.18.161
 add list=gnzdef-blacklist address=5.9.22.215
 add list=gnzdef-blacklist address=5.9.238.116
 add list=gnzdef-blacklist address=5.90.108.144
 add list=gnzdef-blacklist address=5.90.11.216
 add list=gnzdef-blacklist address=5.90.110.32
 add list=gnzdef-blacklist address=5.90.131.8
-add list=gnzdef-blacklist address=5.90.184.34
 add list=gnzdef-blacklist address=5.90.236.17
 add list=gnzdef-blacklist address=5.90.70.181
 add list=gnzdef-blacklist address=5.95.62.2
@@ -13353,7 +13268,6 @@ add list=gnzdef-blacklist address=50.116.18.115
 add list=gnzdef-blacklist address=50.116.3.96
 add list=gnzdef-blacklist address=50.116.98.18
 add list=gnzdef-blacklist address=50.192.223.205
-add list=gnzdef-blacklist address=50.197.75.194
 add list=gnzdef-blacklist address=50.204.41.250
 add list=gnzdef-blacklist address=50.207.119.14
 add list=gnzdef-blacklist address=50.208.96.113
@@ -13388,7 +13302,6 @@ add list=gnzdef-blacklist address=51.142.248.104
 add list=gnzdef-blacklist address=51.159.53.31
 add list=gnzdef-blacklist address=51.159.54.22
 add list=gnzdef-blacklist address=51.161.96.75
-add list=gnzdef-blacklist address=51.178.182.75
 add list=gnzdef-blacklist address=51.178.37.102
 add list=gnzdef-blacklist address=51.178.76.51
 add list=gnzdef-blacklist address=51.178.86.97
@@ -13399,18 +13312,15 @@ add list=gnzdef-blacklist address=51.195.167.162
 add list=gnzdef-blacklist address=51.195.190.20
 add list=gnzdef-blacklist address=51.195.222.110
 add list=gnzdef-blacklist address=51.195.60.71
-add list=gnzdef-blacklist address=51.210.182.85
 add list=gnzdef-blacklist address=51.210.251.22
 add list=gnzdef-blacklist address=51.210.38.66
 add list=gnzdef-blacklist address=51.210.46.44
 add list=gnzdef-blacklist address=51.210.48.40
 add list=gnzdef-blacklist address=51.222.200.213
-add list=gnzdef-blacklist address=51.222.205.124
 add list=gnzdef-blacklist address=51.222.9.11
 add list=gnzdef-blacklist address=51.250.10.179
 add list=gnzdef-blacklist address=51.250.48.11
 add list=gnzdef-blacklist address=51.250.70.191
-add list=gnzdef-blacklist address=51.254.101.166
 add list=gnzdef-blacklist address=51.254.222.185
 add list=gnzdef-blacklist address=51.254.248.18
 add list=gnzdef-blacklist address=51.254.47.48
@@ -13425,13 +13335,11 @@ add list=gnzdef-blacklist address=51.38.245.101
 add list=gnzdef-blacklist address=51.38.47.78
 add list=gnzdef-blacklist address=51.38.82.11
 add list=gnzdef-blacklist address=51.68.121.231
-add list=gnzdef-blacklist address=51.68.122.235
 add list=gnzdef-blacklist address=51.68.189.26
 add list=gnzdef-blacklist address=51.68.226.67
 add list=gnzdef-blacklist address=51.68.94.192
 add list=gnzdef-blacklist address=51.75.142.157
 add list=gnzdef-blacklist address=51.75.224.152
-add list=gnzdef-blacklist address=51.77.147.5
 add list=gnzdef-blacklist address=51.77.53.200
 add list=gnzdef-blacklist address=51.79.144.233
 add list=gnzdef-blacklist address=51.79.146.239
@@ -13603,7 +13511,6 @@ add list=gnzdef-blacklist address=58.11.8.151
 add list=gnzdef-blacklist address=58.11.8.169
 add list=gnzdef-blacklist address=58.11.8.35
 add list=gnzdef-blacklist address=58.11.81.120
-add list=gnzdef-blacklist address=58.11.83.253
 add list=gnzdef-blacklist address=58.121.122.105
 add list=gnzdef-blacklist address=58.121.156.214
 add list=gnzdef-blacklist address=58.121.47.43
@@ -13619,7 +13526,6 @@ add list=gnzdef-blacklist address=58.20.185.12
 add list=gnzdef-blacklist address=58.20.54.143
 add list=gnzdef-blacklist address=58.210.180.182
 add list=gnzdef-blacklist address=58.210.241.5
-add list=gnzdef-blacklist address=58.210.82.250
 add list=gnzdef-blacklist address=58.211.156.146
 add list=gnzdef-blacklist address=58.213.120.99
 add list=gnzdef-blacklist address=58.213.151.122
@@ -13629,7 +13535,6 @@ add list=gnzdef-blacklist address=58.216.207.82
 add list=gnzdef-blacklist address=58.216.218.238
 add list=gnzdef-blacklist address=58.22.7.73
 add list=gnzdef-blacklist address=58.220.10.210
-add list=gnzdef-blacklist address=58.220.32.139
 add list=gnzdef-blacklist address=58.220.50.172
 add list=gnzdef-blacklist address=58.220.56.64
 add list=gnzdef-blacklist address=58.220.87.226
@@ -13727,7 +13632,6 @@ add list=gnzdef-blacklist address=59.144.161.238
 add list=gnzdef-blacklist address=59.144.163.76
 add list=gnzdef-blacklist address=59.144.164.10
 add list=gnzdef-blacklist address=59.144.164.95
-add list=gnzdef-blacklist address=59.144.169.9
 add list=gnzdef-blacklist address=59.144.170.107
 add list=gnzdef-blacklist address=59.144.170.46
 add list=gnzdef-blacklist address=59.144.172.232
@@ -13738,13 +13642,11 @@ add list=gnzdef-blacklist address=59.15.81.46
 add list=gnzdef-blacklist address=59.150.105.114
 add list=gnzdef-blacklist address=59.152.237.118
 add list=gnzdef-blacklist address=59.152.97.134
-add list=gnzdef-blacklist address=59.154.123.16
 add list=gnzdef-blacklist address=59.154.253.34
 add list=gnzdef-blacklist address=59.162.182.20
 add list=gnzdef-blacklist address=59.167.159.78
 add list=gnzdef-blacklist address=59.17.241.28
 add list=gnzdef-blacklist address=59.173.120.70
-add list=gnzdef-blacklist address=59.173.122.11
 add list=gnzdef-blacklist address=59.19.254.161
 add list=gnzdef-blacklist address=59.2.62.58
 add list=gnzdef-blacklist address=59.21.151.121
@@ -13971,7 +13873,6 @@ add list=gnzdef-blacklist address=61.32.133.198
 add list=gnzdef-blacklist address=61.5.67.50
 add list=gnzdef-blacklist address=61.50.130.147
 add list=gnzdef-blacklist address=61.51.111.187
-add list=gnzdef-blacklist address=61.57.117.142
 add list=gnzdef-blacklist address=61.68.242.56
 add list=gnzdef-blacklist address=61.72.173.135
 add list=gnzdef-blacklist address=61.73.222.69
@@ -14016,7 +13917,6 @@ add list=gnzdef-blacklist address=62.197.136.68
 add list=gnzdef-blacklist address=62.197.136.89
 add list=gnzdef-blacklist address=62.202.28.70
 add list=gnzdef-blacklist address=62.202.41.155
-add list=gnzdef-blacklist address=62.210.119.216
 add list=gnzdef-blacklist address=62.210.136.110
 add list=gnzdef-blacklist address=62.210.214.15
 add list=gnzdef-blacklist address=62.210.53.68
@@ -14059,6 +13959,7 @@ add list=gnzdef-blacklist address=63.46.157.165
 add list=gnzdef-blacklist address=64.110.176.206
 add list=gnzdef-blacklist address=64.111.48.2
 add list=gnzdef-blacklist address=64.119.29.157
+add list=gnzdef-blacklist address=64.120.119.74
 add list=gnzdef-blacklist address=64.120.119.83
 add list=gnzdef-blacklist address=64.125.41.98
 add list=gnzdef-blacklist address=64.127.146.51
@@ -14151,7 +14052,6 @@ add list=gnzdef-blacklist address=64.31.33.218
 add list=gnzdef-blacklist address=64.31.47.86
 add list=gnzdef-blacklist address=64.31.7.138
 add list=gnzdef-blacklist address=64.37.52.95
-add list=gnzdef-blacklist address=64.53.98.190
 add list=gnzdef-blacklist address=64.53.98.230
 add list=gnzdef-blacklist address=64.62.197.122
 add list=gnzdef-blacklist address=64.62.197.212
@@ -14167,7 +14067,6 @@ add list=gnzdef-blacklist address=65.0.14.3
 add list=gnzdef-blacklist address=65.1.253.250
 add list=gnzdef-blacklist address=65.1.85.11
 add list=gnzdef-blacklist address=65.108.214.223
-add list=gnzdef-blacklist address=65.108.215.154
 add list=gnzdef-blacklist address=65.108.215.198
 add list=gnzdef-blacklist address=65.108.58.99
 add list=gnzdef-blacklist address=65.108.59.226
@@ -14203,7 +14102,6 @@ add list=gnzdef-blacklist address=66.128.246.107
 add list=gnzdef-blacklist address=66.128.251.148
 add list=gnzdef-blacklist address=66.128.254.85
 add list=gnzdef-blacklist address=66.128.255.168
-add list=gnzdef-blacklist address=66.128.255.33
 add list=gnzdef-blacklist address=66.128.255.61
 add list=gnzdef-blacklist address=66.143.231.89
 add list=gnzdef-blacklist address=66.175.236.89
@@ -14237,6 +14135,7 @@ add list=gnzdef-blacklist address=66.98.113.244
 add list=gnzdef-blacklist address=66.98.127.52
 add list=gnzdef-blacklist address=66.98.45.242
 add list=gnzdef-blacklist address=67.11.37.9
+add list=gnzdef-blacklist address=67.163.58.61
 add list=gnzdef-blacklist address=67.166.173.109
 add list=gnzdef-blacklist address=67.167.154.147
 add list=gnzdef-blacklist address=67.168.213.159
@@ -14480,10 +14379,12 @@ add list=gnzdef-blacklist address=73.238.66.151
 add list=gnzdef-blacklist address=73.247.76.26
 add list=gnzdef-blacklist address=73.26.138.42
 add list=gnzdef-blacklist address=73.26.246.230
+add list=gnzdef-blacklist address=73.36.138.44
 add list=gnzdef-blacklist address=73.4.195.200
 add list=gnzdef-blacklist address=73.43.86.177
 add list=gnzdef-blacklist address=73.46.239.216
 add list=gnzdef-blacklist address=73.52.12.202
+add list=gnzdef-blacklist address=73.57.206.65
 add list=gnzdef-blacklist address=73.59.46.2
 add list=gnzdef-blacklist address=73.78.215.109
 add list=gnzdef-blacklist address=73.84.87.174
@@ -14508,12 +14409,12 @@ add list=gnzdef-blacklist address=74.208.76.156
 add list=gnzdef-blacklist address=74.208.90.100
 add list=gnzdef-blacklist address=74.211.102.126
 add list=gnzdef-blacklist address=74.214.42.22
-add list=gnzdef-blacklist address=74.217.186.54
 add list=gnzdef-blacklist address=74.221.147.127
 add list=gnzdef-blacklist address=74.40.14.103
 add list=gnzdef-blacklist address=74.62.159.242
 add list=gnzdef-blacklist address=74.68.68.127
 add list=gnzdef-blacklist address=74.72.9.135
+add list=gnzdef-blacklist address=74.79.103.142
 add list=gnzdef-blacklist address=74.81.30.208
 add list=gnzdef-blacklist address=74.87.71.226
 add list=gnzdef-blacklist address=74.91.17.83
@@ -14531,7 +14432,6 @@ add list=gnzdef-blacklist address=75.130.48.82
 add list=gnzdef-blacklist address=75.131.53.34
 add list=gnzdef-blacklist address=75.132.197.58
 add list=gnzdef-blacklist address=75.134.205.220
-add list=gnzdef-blacklist address=75.136.150.87
 add list=gnzdef-blacklist address=75.139.65.96
 add list=gnzdef-blacklist address=75.144.130.181
 add list=gnzdef-blacklist address=75.149.48.196
@@ -14543,7 +14443,6 @@ add list=gnzdef-blacklist address=75.76.205.147
 add list=gnzdef-blacklist address=75.8.208.209
 add list=gnzdef-blacklist address=75.84.200.161
 add list=gnzdef-blacklist address=75.84.35.73
-add list=gnzdef-blacklist address=75.85.188.18
 add list=gnzdef-blacklist address=76.108.196.189
 add list=gnzdef-blacklist address=76.116.10.243
 add list=gnzdef-blacklist address=76.120.242.131
@@ -14579,7 +14478,6 @@ add list=gnzdef-blacklist address=77.131.55.45
 add list=gnzdef-blacklist address=77.131.79.37
 add list=gnzdef-blacklist address=77.135.144.209
 add list=gnzdef-blacklist address=77.139.187.179
-add list=gnzdef-blacklist address=77.139.216.77
 add list=gnzdef-blacklist address=77.141.242.25
 add list=gnzdef-blacklist address=77.158.71.118
 add list=gnzdef-blacklist address=77.172.63.1
@@ -14690,6 +14588,7 @@ add list=gnzdef-blacklist address=79.31.181.252
 add list=gnzdef-blacklist address=79.37.118.28
 add list=gnzdef-blacklist address=79.47.174.15
 add list=gnzdef-blacklist address=79.56.92.189
+add list=gnzdef-blacklist address=79.59.125.246
 add list=gnzdef-blacklist address=79.80.37.247
 add list=gnzdef-blacklist address=79.84.154.45
 add list=gnzdef-blacklist address=79.92.249.236
@@ -14739,7 +14638,6 @@ add list=gnzdef-blacklist address=80.13.175.84
 add list=gnzdef-blacklist address=80.13.91.72
 add list=gnzdef-blacklist address=80.14.12.161
 add list=gnzdef-blacklist address=80.14.121.172
-add list=gnzdef-blacklist address=80.14.53.206
 add list=gnzdef-blacklist address=80.147.162.151
 add list=gnzdef-blacklist address=80.15.39.241
 add list=gnzdef-blacklist address=80.15.50.194
@@ -14905,12 +14803,12 @@ add list=gnzdef-blacklist address=81.88.154.33
 add list=gnzdef-blacklist address=81.88.52.134
 add list=gnzdef-blacklist address=81.88.52.210
 add list=gnzdef-blacklist address=81.88.52.222
+add list=gnzdef-blacklist address=81.88.52.223
 add list=gnzdef-blacklist address=81.88.52.8
 add list=gnzdef-blacklist address=81.89.79.166
 add list=gnzdef-blacklist address=81.91.136.3
 add list=gnzdef-blacklist address=82.102.149.88
 add list=gnzdef-blacklist address=82.102.189.181
-add list=gnzdef-blacklist address=82.127.188.193
 add list=gnzdef-blacklist address=82.130.209.51
 add list=gnzdef-blacklist address=82.135.195.209
 add list=gnzdef-blacklist address=82.142.1.200
@@ -14957,6 +14855,7 @@ add list=gnzdef-blacklist address=82.65.239.16
 add list=gnzdef-blacklist address=82.66.53.144
 add list=gnzdef-blacklist address=82.66.53.146
 add list=gnzdef-blacklist address=82.66.59.170
+add list=gnzdef-blacklist address=82.66.76.43
 add list=gnzdef-blacklist address=82.66.92.137
 add list=gnzdef-blacklist address=82.77.127.74
 add list=gnzdef-blacklist address=82.77.240.80
@@ -14964,6 +14863,7 @@ add list=gnzdef-blacklist address=82.79.58.176
 add list=gnzdef-blacklist address=82.8.61.160
 add list=gnzdef-blacklist address=82.84.185.246
 add list=gnzdef-blacklist address=82.84.82.247
+add list=gnzdef-blacklist address=82.84.96.189
 add list=gnzdef-blacklist address=83.11.27.142
 add list=gnzdef-blacklist address=83.12.171.69
 add list=gnzdef-blacklist address=83.148.232.157
@@ -15127,7 +15027,6 @@ add list=gnzdef-blacklist address=87.163.9.188
 add list=gnzdef-blacklist address=87.171.186.2
 add list=gnzdef-blacklist address=87.174.90.241
 add list=gnzdef-blacklist address=87.175.205.215
-add list=gnzdef-blacklist address=87.197.110.96
 add list=gnzdef-blacklist address=87.197.120.236
 add list=gnzdef-blacklist address=87.197.152.170
 add list=gnzdef-blacklist address=87.20.254.174
@@ -15145,7 +15044,9 @@ add list=gnzdef-blacklist address=87.236.20.98
 add list=gnzdef-blacklist address=87.240.58.147
 add list=gnzdef-blacklist address=87.242.189.150
 add list=gnzdef-blacklist address=87.245.250.34
+add list=gnzdef-blacklist address=87.250.224.126
 add list=gnzdef-blacklist address=87.250.224.36
+add list=gnzdef-blacklist address=87.250.224.73
 add list=gnzdef-blacklist address=87.65.203.65
 add list=gnzdef-blacklist address=87.65.39.114
 add list=gnzdef-blacklist address=87.88.222.96
@@ -15188,7 +15089,6 @@ add list=gnzdef-blacklist address=88.32.219.44
 add list=gnzdef-blacklist address=88.32.80.10
 add list=gnzdef-blacklist address=88.66.102.29
 add list=gnzdef-blacklist address=88.66.103.201
-add list=gnzdef-blacklist address=88.66.14.195
 add list=gnzdef-blacklist address=88.66.14.230
 add list=gnzdef-blacklist address=88.66.15.81
 add list=gnzdef-blacklist address=88.66.233.137
@@ -15218,7 +15118,6 @@ add list=gnzdef-blacklist address=89.187.182.24
 add list=gnzdef-blacklist address=89.20.83.254
 add list=gnzdef-blacklist address=89.203.137.15
 add list=gnzdef-blacklist address=89.203.137.40
-add list=gnzdef-blacklist address=89.203.249.95
 add list=gnzdef-blacklist address=89.205.125.248
 add list=gnzdef-blacklist address=89.216.81.254
 add list=gnzdef-blacklist address=89.22.165.187
@@ -15252,7 +15151,6 @@ add list=gnzdef-blacklist address=90.12.75.214
 add list=gnzdef-blacklist address=90.125.254.28
 add list=gnzdef-blacklist address=90.126.248.170
 add list=gnzdef-blacklist address=90.149.151.118
-add list=gnzdef-blacklist address=90.150.57.216
 add list=gnzdef-blacklist address=90.160.105.186
 add list=gnzdef-blacklist address=90.160.140.35
 add list=gnzdef-blacklist address=90.160.140.67
@@ -15283,7 +15181,6 @@ add list=gnzdef-blacklist address=91.122.21.127
 add list=gnzdef-blacklist address=91.123.18.217
 add list=gnzdef-blacklist address=91.126.51.38
 add list=gnzdef-blacklist address=91.126.57.119
-add list=gnzdef-blacklist address=91.134.16.2
 add list=gnzdef-blacklist address=91.134.248.245
 add list=gnzdef-blacklist address=91.137.124.140
 add list=gnzdef-blacklist address=91.137.125.250
@@ -15298,6 +15195,7 @@ add list=gnzdef-blacklist address=91.183.198.251
 add list=gnzdef-blacklist address=91.183.211.136
 add list=gnzdef-blacklist address=91.183.81.82
 add list=gnzdef-blacklist address=91.183.96.181
+add list=gnzdef-blacklist address=91.191.209.202
 add list=gnzdef-blacklist address=91.192.192.165
 add list=gnzdef-blacklist address=91.196.111.186
 add list=gnzdef-blacklist address=91.2.246.62
@@ -15315,6 +15213,7 @@ add list=gnzdef-blacklist address=91.227.16.16
 add list=gnzdef-blacklist address=91.234.194.177
 add list=gnzdef-blacklist address=91.239.11.213
 add list=gnzdef-blacklist address=91.241.19.42
+add list=gnzdef-blacklist address=91.32.180.251
 add list=gnzdef-blacklist address=91.40.160.42
 add list=gnzdef-blacklist address=91.5.175.209
 add list=gnzdef-blacklist address=91.60.144.133
@@ -15346,7 +15245,6 @@ add list=gnzdef-blacklist address=92.201.179.218
 add list=gnzdef-blacklist address=92.211.118.73
 add list=gnzdef-blacklist address=92.220.162.17
 add list=gnzdef-blacklist address=92.220.59.18
-add list=gnzdef-blacklist address=92.222.171.6
 add list=gnzdef-blacklist address=92.222.220.39
 add list=gnzdef-blacklist address=92.241.17.112
 add list=gnzdef-blacklist address=92.248.40.224
@@ -15374,7 +15272,6 @@ add list=gnzdef-blacklist address=93.104.51.94
 add list=gnzdef-blacklist address=93.108.232.202
 add list=gnzdef-blacklist address=93.108.242.140
 add list=gnzdef-blacklist address=93.108.44.44
-add list=gnzdef-blacklist address=93.109.69.1
 add list=gnzdef-blacklist address=93.116.122.209
 add list=gnzdef-blacklist address=93.138.143.189
 add list=gnzdef-blacklist address=93.147.129.222
@@ -15418,7 +15315,6 @@ add list=gnzdef-blacklist address=93.209.251.49
 add list=gnzdef-blacklist address=93.210.71.86
 add list=gnzdef-blacklist address=93.211.170.235
 add list=gnzdef-blacklist address=93.211.172.154
-add list=gnzdef-blacklist address=93.216.101.174
 add list=gnzdef-blacklist address=93.224.123.80
 add list=gnzdef-blacklist address=93.230.93.119
 add list=gnzdef-blacklist address=93.230.93.149
@@ -15446,7 +15342,6 @@ add list=gnzdef-blacklist address=94.153.212.78
 add list=gnzdef-blacklist address=94.16.112.178
 add list=gnzdef-blacklist address=94.177.170.214
 add list=gnzdef-blacklist address=94.177.215.29
-add list=gnzdef-blacklist address=94.180.114.153
 add list=gnzdef-blacklist address=94.180.57.15
 add list=gnzdef-blacklist address=94.182.185.153
 add list=gnzdef-blacklist address=94.19.49.235
@@ -15495,7 +15390,6 @@ add list=gnzdef-blacklist address=95.38.79.125
 add list=gnzdef-blacklist address=95.42.188.29
 add list=gnzdef-blacklist address=95.52.165.204
 add list=gnzdef-blacklist address=95.53.176.166
-add list=gnzdef-blacklist address=95.53.186.195
 add list=gnzdef-blacklist address=95.54.78.45
 add list=gnzdef-blacklist address=95.56.90.101
 add list=gnzdef-blacklist address=95.57.103.100
@@ -23547,224 +23441,444 @@ add list=gnzdef-blacklist address=95.143.192.159
 add list=gnzdef-blacklist address=176.100.75.27
 add list=gnzdef-blacklist address=176.221.42.32
 add list=gnzdef-blacklist address=103.107.113.120
+
 add list=gnzdef-blacklist address=103.109.247.10
+
 add list=gnzdef-blacklist address=103.109.247.13
+
 add list=gnzdef-blacklist address=103.109.247.8
+
 add list=gnzdef-blacklist address=103.253.107.155
+
 add list=gnzdef-blacklist address=103.253.107.156
+
 add list=gnzdef-blacklist address=103.253.107.198
+
 add list=gnzdef-blacklist address=103.253.145.28
+
 add list=gnzdef-blacklist address=103.44.138.22
+
 add list=gnzdef-blacklist address=103.74.143.53
+
 add list=gnzdef-blacklist address=103.75.201.2
+
 add list=gnzdef-blacklist address=103.85.160.5
+
 add list=gnzdef-blacklist address=103.87.95.133
+
 add list=gnzdef-blacklist address=103.88.226.30
+
 add list=gnzdef-blacklist address=103.9.36.172
+
 add list=gnzdef-blacklist address=104.248.155.133
+
 add list=gnzdef-blacklist address=104.248.178.90
+
 add list=gnzdef-blacklist address=105.226.83.196
+
 add list=gnzdef-blacklist address=107.170.64.97
+
 add list=gnzdef-blacklist address=108.60.213.141
+
 add list=gnzdef-blacklist address=109.160.96.230
+
 add list=gnzdef-blacklist address=110.172.137.20
+
 add list=gnzdef-blacklist address=113.11.89.165
+
 add list=gnzdef-blacklist address=116.124.128.206
+
 add list=gnzdef-blacklist address=116.125.120.88
+
 add list=gnzdef-blacklist address=117.220.229.162
+
 add list=gnzdef-blacklist address=117.248.109.38
+
 add list=gnzdef-blacklist address=117.54.140.98
+
 add list=gnzdef-blacklist address=119.193.124.41
+
 add list=gnzdef-blacklist address=120.150.218.241
+
 add list=gnzdef-blacklist address=121.199.35.69
+
 add list=gnzdef-blacklist address=121.74.167.191
+
 add list=gnzdef-blacklist address=121.78.112.42
+
 add list=gnzdef-blacklist address=128.199.192.135
+
 add list=gnzdef-blacklist address=128.199.232.159
+
 add list=gnzdef-blacklist address=128.199.93.156
+
 add list=gnzdef-blacklist address=129.232.146.250
+
 add list=gnzdef-blacklist address=131.100.24.192
+
 add list=gnzdef-blacklist address=131.100.24.231
+
 add list=gnzdef-blacklist address=134.209.240.102
+
 add list=gnzdef-blacklist address=134.209.247.135
+
 add list=gnzdef-blacklist address=136.243.32.168
+
 add list=gnzdef-blacklist address=138.197.109.175
+
 add list=gnzdef-blacklist address=138.197.64.211
+
 add list=gnzdef-blacklist address=138.197.90.158
+
 add list=gnzdef-blacklist address=139.196.72.155
+
 add list=gnzdef-blacklist address=139.59.56.73
+
 add list=gnzdef-blacklist address=139.99.30.176
+
 add list=gnzdef-blacklist address=140.82.63.183
+
 add list=gnzdef-blacklist address=142.44.247.57
+
 add list=gnzdef-blacklist address=142.93.76.76
+
 add list=gnzdef-blacklist address=144.202.2.175
+
 add list=gnzdef-blacklist address=144.202.3.39
+
 add list=gnzdef-blacklist address=144.217.88.125
+
 add list=gnzdef-blacklist address=144.91.110.219
+
 add list=gnzdef-blacklist address=144.91.122.100
+
 add list=gnzdef-blacklist address=144.91.122.94
+
 add list=gnzdef-blacklist address=146.59.226.45
+
 add list=gnzdef-blacklist address=148.64.96.100
+
 add list=gnzdef-blacklist address=149.28.238.199
+
 add list=gnzdef-blacklist address=149.56.128.192
+
 add list=gnzdef-blacklist address=149.56.131.28
+
 add list=gnzdef-blacklist address=150.95.20.209
+
 add list=gnzdef-blacklist address=153.126.165.175
+
 add list=gnzdef-blacklist address=154.79.251.172
+
 add list=gnzdef-blacklist address=159.65.163.220
+
 add list=gnzdef-blacklist address=159.65.253.201
+
 add list=gnzdef-blacklist address=159.65.3.147
+
 add list=gnzdef-blacklist address=162.214.188.105
+
 add list=gnzdef-blacklist address=165.22.246.219
+
 add list=gnzdef-blacklist address=165.22.61.235
+
 add list=gnzdef-blacklist address=167.71.11.125
+
 add list=gnzdef-blacklist address=167.99.127.67
+
 add list=gnzdef-blacklist address=167.99.141.108
+
 add list=gnzdef-blacklist address=172.104.22.23
+
 add list=gnzdef-blacklist address=172.105.115.71
+
 add list=gnzdef-blacklist address=172.114.160.81
+
 add list=gnzdef-blacklist address=172.115.177.204
+
 add list=gnzdef-blacklist address=173.174.216.62
+
 add list=gnzdef-blacklist address=173.21.10.71
+
 add list=gnzdef-blacklist address=174.69.215.101
+
 add list=gnzdef-blacklist address=175.145.235.37
+
 add list=gnzdef-blacklist address=176.104.106.96
+
 add list=gnzdef-blacklist address=176.205.119.81
+
 add list=gnzdef-blacklist address=176.31.163.17
-add list=gnzdef-blacklist address=176.56.128.118
+
 add list=gnzdef-blacklist address=176.67.56.94
+
 add list=gnzdef-blacklist address=177.158.7.155
+
 add list=gnzdef-blacklist address=177.39.156.177
+
 add list=gnzdef-blacklist address=178.128.197.110
+
 add list=gnzdef-blacklist address=178.128.23.9
+
 add list=gnzdef-blacklist address=178.128.83.165
+
 add list=gnzdef-blacklist address=178.238.236.59
+
 add list=gnzdef-blacklist address=178.79.150.86
+
 add list=gnzdef-blacklist address=180.129.102.214
+
 add list=gnzdef-blacklist address=180.250.21.2
+
 add list=gnzdef-blacklist address=181.129.167.82
+
 add list=gnzdef-blacklist address=181.208.248.227
+
 add list=gnzdef-blacklist address=181.57.137.115
+
 add list=gnzdef-blacklist address=182.191.92.203
+
 add list=gnzdef-blacklist address=185.184.25.234
+
 add list=gnzdef-blacklist address=185.184.25.237
+
 add list=gnzdef-blacklist address=185.184.25.78
+
 add list=gnzdef-blacklist address=185.99.2.197
+
 add list=gnzdef-blacklist address=186.225.119.170
+
 add list=gnzdef-blacklist address=186.250.48.117
+
 add list=gnzdef-blacklist address=186.64.67.38
-add list=gnzdef-blacklist address=187.172.232.250
+
 add list=gnzdef-blacklist address=187.84.80.182
+
 add list=gnzdef-blacklist address=188.166.229.148
+
 add list=gnzdef-blacklist address=190.73.3.148
+
 add list=gnzdef-blacklist address=191.99.191.28
+
 add list=gnzdef-blacklist address=192.99.150.39
+
 add list=gnzdef-blacklist address=194.233.68.48
+
+add list=gnzdef-blacklist address=197.167.62.14
+
 add list=gnzdef-blacklist address=198.199.70.22
+
 add list=gnzdef-blacklist address=198.61.167.176
+
 add list=gnzdef-blacklist address=2.50.137.197
+
 add list=gnzdef-blacklist address=200.236.218.62
+
 add list=gnzdef-blacklist address=202.134.152.2
+
 add list=gnzdef-blacklist address=202.29.239.162
+
 add list=gnzdef-blacklist address=202.51.122.163
+
 add list=gnzdef-blacklist address=203.114.109.124
+
 add list=gnzdef-blacklist address=203.122.46.130
+
 add list=gnzdef-blacklist address=203.153.216.46
+
 add list=gnzdef-blacklist address=204.174.223.210
+
 add list=gnzdef-blacklist address=207.154.208.93
+
 add list=gnzdef-blacklist address=207.246.112.221
+
 add list=gnzdef-blacklist address=208.107.221.224
+
 add list=gnzdef-blacklist address=209.126.98.206
+
 add list=gnzdef-blacklist address=211.172.241.52
+
 add list=gnzdef-blacklist address=212.112.86.37
+
 add list=gnzdef-blacklist address=212.237.17.99
+
 add list=gnzdef-blacklist address=213.136.86.165
+
 add list=gnzdef-blacklist address=213.32.75.32
+
 add list=gnzdef-blacklist address=216.238.71.31
+
 add list=gnzdef-blacklist address=216.238.72.121
+
 add list=gnzdef-blacklist address=217.128.122.65
+
 add list=gnzdef-blacklist address=217.182.78.224
+
 add list=gnzdef-blacklist address=217.79.180.211
+
 add list=gnzdef-blacklist address=24.162.214.166
+
 add list=gnzdef-blacklist address=24.178.196.158
+
 add list=gnzdef-blacklist address=24.43.99.75
+
 add list=gnzdef-blacklist address=31.35.28.29
+
 add list=gnzdef-blacklist address=32.221.224.140
+
 add list=gnzdef-blacklist address=36.95.110.19
+
 add list=gnzdef-blacklist address=37.187.115.122
+
 add list=gnzdef-blacklist address=37.210.164.171
+
 add list=gnzdef-blacklist address=37.247.35.130
+
 add list=gnzdef-blacklist address=37.59.103.148
+
 add list=gnzdef-blacklist address=37.59.74.180
+
 add list=gnzdef-blacklist address=38.70.253.226
+
 add list=gnzdef-blacklist address=39.44.144.159
+
 add list=gnzdef-blacklist address=41.228.22.180
+
 add list=gnzdef-blacklist address=45.176.232.125
+
 add list=gnzdef-blacklist address=45.46.53.140
+
 add list=gnzdef-blacklist address=45.55.63.166
+
 add list=gnzdef-blacklist address=45.63.1.12
+
 add list=gnzdef-blacklist address=45.76.167.26
+
 add list=gnzdef-blacklist address=45.79.91.89
+
 add list=gnzdef-blacklist address=45.9.20.200
+
 add list=gnzdef-blacklist address=45.90.108.123
+
 add list=gnzdef-blacklist address=46.101.90.205
+
 add list=gnzdef-blacklist address=46.107.48.202
+
 add list=gnzdef-blacklist address=46.55.222.11
+
 add list=gnzdef-blacklist address=47.156.191.217
+
 add list=gnzdef-blacklist address=47.180.172.159
+
 add list=gnzdef-blacklist address=47.23.89.62
+
 add list=gnzdef-blacklist address=5.182.210.132
+
 add list=gnzdef-blacklist address=50.116.19.225
+
 add list=gnzdef-blacklist address=50.116.62.25
+
 add list=gnzdef-blacklist address=50.29.166.232
+
 add list=gnzdef-blacklist address=50.30.40.196
+
 add list=gnzdef-blacklist address=51.178.161.32
+
 add list=gnzdef-blacklist address=51.178.186.134
+
 add list=gnzdef-blacklist address=51.254.140.238
+
 add list=gnzdef-blacklist address=51.38.71.0
+
 add list=gnzdef-blacklist address=51.79.205.117
+
 add list=gnzdef-blacklist address=51.91.142.158
+
 add list=gnzdef-blacklist address=51.91.76.89
+
 add list=gnzdef-blacklist address=54.37.106.167
+
 add list=gnzdef-blacklist address=54.37.70.105
+
 add list=gnzdef-blacklist address=54.38.143.246
+
 add list=gnzdef-blacklist address=58.227.42.236
+
 add list=gnzdef-blacklist address=59.148.253.194
+
 add list=gnzdef-blacklist address=62.141.45.103
+
 add list=gnzdef-blacklist address=63.143.92.99
+
 add list=gnzdef-blacklist address=66.175.217.172
+
 add list=gnzdef-blacklist address=66.98.42.102
+
 add list=gnzdef-blacklist address=67.207.95.35
+
 add list=gnzdef-blacklist address=68.183.62.61
+
 add list=gnzdef-blacklist address=68.183.94.239
+
 add list=gnzdef-blacklist address=69.64.50.41
+
 add list=gnzdef-blacklist address=70.46.220.114
+
 add list=gnzdef-blacklist address=71.13.93.154
+
 add list=gnzdef-blacklist address=71.74.12.34
+
 add list=gnzdef-blacklist address=72.76.94.99
+
 add list=gnzdef-blacklist address=73.151.236.31
+
 add list=gnzdef-blacklist address=73.67.152.98
+
 add list=gnzdef-blacklist address=74.15.2.252
+
 add list=gnzdef-blacklist address=74.63.218.139
+
 add list=gnzdef-blacklist address=75.113.214.234
+
 add list=gnzdef-blacklist address=75.99.168.194
+
 add list=gnzdef-blacklist address=76.25.142.196
+
 add list=gnzdef-blacklist address=76.69.155.202
+
 add list=gnzdef-blacklist address=76.70.9.169
+
 add list=gnzdef-blacklist address=79.172.212.216
+
 add list=gnzdef-blacklist address=80.11.74.81
+
 add list=gnzdef-blacklist address=81.215.196.174
+
 add list=gnzdef-blacklist address=83.110.75.225
+
 add list=gnzdef-blacklist address=85.246.82.244
+
 add list=gnzdef-blacklist address=86.97.11.43
+
 add list=gnzdef-blacklist address=86.98.208.214
+
 add list=gnzdef-blacklist address=91.121.134.180
+
 add list=gnzdef-blacklist address=91.121.146.47
+
 add list=gnzdef-blacklist address=91.177.173.10
+
 add list=gnzdef-blacklist address=91.207.181.106
+
 add list=gnzdef-blacklist address=92.132.172.197
+
 add list=gnzdef-blacklist address=93.188.167.97
+
 add list=gnzdef-blacklist address=93.48.80.198
+
 add list=gnzdef-blacklist address=95.110.160.239
+
 add list=gnzdef-blacklist address=96.21.251.127
+
 add list=gnzdef-blacklist address=97.107.134.115
+
